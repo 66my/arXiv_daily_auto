@@ -55,13 +55,13 @@
 |**2025-05-24**|**DiffusionRL: Efficient Training of Diffusion Policies for Robotic Grasping Using RL-Adapted Large-Scale Datasets**|Maria Makarova et.al.|[2505.18876](http://arxiv.org/abs/2505.18876)|null|
 |**2025-05-24**|**Guided by Guardrails: Control Barrier Functions as Safety Instructors for Robotic Learning**|Maeva Guerrier et.al.|[2505.18858](http://arxiv.org/abs/2505.18858)|null|
 |**2025-05-24**|**On the Dual-Use Dilemma in Physical Reasoning and Force**|William Xie et.al.|[2505.18792](http://arxiv.org/abs/2505.18792)|null|
-|**2025-05-24**|**VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning**|Guanxing Lu et.al.|[2505.18719](http://arxiv.org/abs/2505.18719)|null|
-|**2025-05-24**|**Grounding Bodily Awareness in Visual Representations for Efficient Policy Learning**|Junlin Wang et.al.|[2505.18487](http://arxiv.org/abs/2505.18487)|null|
+|**2025-05-24**|**VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning**|Guanxing Lu et.al.|[2505.18719](http://arxiv.org/abs/2505.18719)|**[link](https://github.com/guanxinglu/vlarl)**|
+|**2025-05-24**|**Grounding Bodily Awareness in Visual Representations for Efficient Policy Learning**|Junlin Wang et.al.|[2505.18487](http://arxiv.org/abs/2505.18487)|**[link](https://github.com/henrywjl/icon)**|
 |**2025-05-24**|**Canonical Policy: Learning Canonical 3D Representation for Equivariant Policy**|Zhiyuan Zhang et.al.|[2505.18474](http://arxiv.org/abs/2505.18474)|null|
 |**2025-05-24**|**ManiFeel: Benchmarking and Understanding Visuotactile Manipulation Policy Learning**|Quan Khanh Luu et.al.|[2505.18472](http://arxiv.org/abs/2505.18472)|null|
-|**2025-05-23**|**Reinforcement Learning for Ballbot Navigation in Uneven Terrain**|Achkan Salehi et.al.|[2505.18417](http://arxiv.org/abs/2505.18417)|null|
-|**2025-05-23**|**A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments**|Míriam Máximo et.al.|[2505.18340](http://arxiv.org/abs/2505.18340)|null|
-|**2025-05-23**|**BEDI: A Comprehensive Benchmark for Evaluating Embodied Agents on UAVs**|Mingning Guo et.al.|[2505.18229](http://arxiv.org/abs/2505.18229)|null|
+|**2025-05-23**|**Reinforcement Learning for Ballbot Navigation in Uneven Terrain**|Achkan Salehi et.al.|[2505.18417](http://arxiv.org/abs/2505.18417)|**[link](https://github.com/salehiac/openballbot-rl)**|
+|**2025-05-23**|**A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments**|Míriam Máximo et.al.|[2505.18340](http://arxiv.org/abs/2505.18340)|**[link](https://github.com/miriammaximo/mcl-dlf)**|
+|**2025-05-23**|**BEDI: A Comprehensive Benchmark for Evaluating Embodied Agents on UAVs**|Mingning Guo et.al.|[2505.18229](http://arxiv.org/abs/2505.18229)|**[link](https://github.com/lostwolves/bedi)**|
 |**2025-05-23**|**Classification of assembly tasks combining multiple primitive actions using Transformers and xLSTMs**|Miguel Neves et.al.|[2505.18012](http://arxiv.org/abs/2505.18012)|null|
 |**2025-05-23**|**Is Single-View Mesh Reconstruction Ready for Robotics?**|Frederik Nolte et.al.|[2505.17966](http://arxiv.org/abs/2505.17966)|null|
 |**2025-05-23**|**SynRES: Towards Referring Expression Segmentation in the Wild via Synthetic Data**|Dong-Hee Kim et.al.|[2505.17695](http://arxiv.org/abs/2505.17695)|null|
@@ -80,7 +80,7 @@
 |**2025-05-25**|**Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios**|Patanjali Maithani et.al.|[2505.16055](http://arxiv.org/abs/2505.16055)|null|
 |**2025-05-21**|**Integrating Robotic Navigation with Blockchain: A Novel PoS-Based Approach for Heterogeneous Robotic Teams**|Nasim Paykari et.al.|[2505.15954](http://arxiv.org/abs/2505.15954)|null|
 |**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685](http://arxiv.org/abs/2505.15685)|**[link](https://github.com/hritdy/claw_machine)**|
-|**2025-05-24**|**Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization**|Jiaming Zhou et.al.|[2505.15660](http://arxiv.org/abs/2505.15660)|null|
+|**2025-05-24**|**Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization**|Jiaming Zhou et.al.|[2505.15660](http://arxiv.org/abs/2505.15660)|**[link](https://github.com/jiaming-zhou/X-ICM)**|
 |**2025-05-21**|**FLARE: Robot Learning with Implicit World Modeling**|Ruijie Zheng et.al.|[2505.15659](http://arxiv.org/abs/2505.15659)|null|
 |**2025-05-21**|**Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets**|Kaiyuan Chen et.al.|[2505.15517](http://arxiv.org/abs/2505.15517)|null|
 |**2025-05-21**|**Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**|Seongmin Park et.al.|[2505.15304](http://arxiv.org/abs/2505.15304)|null|
@@ -90,7 +90,7 @@
 |**2025-05-20**|**UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction**|Nisarga Nilavadi et.al.|[2505.14866](http://arxiv.org/abs/2505.14866)|null|
 |**2025-05-20**|**DORA: Object Affordance-Guided Reinforcement Learning for Dexterous Robotic Manipulation**|Lei Zhang et.al.|[2505.14819](http://arxiv.org/abs/2505.14819)|null|
 |**2025-05-20**|**Vid2World: Crafting Video Diffusion Models to Interactive World Models**|Siqiao Huang et.al.|[2505.14357](http://arxiv.org/abs/2505.14357)|null|
-|**2025-05-20**|**AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory**|Zhiqian Lan et.al.|[2505.14030](http://arxiv.org/abs/2505.14030)|null|
+|**2025-05-20**|**AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory**|Zhiqian Lan et.al.|[2505.14030](http://arxiv.org/abs/2505.14030)|**[link](https://github.com/autobio-bench/AutoBio)**|
 |**2025-05-20**|**RLVR-World: Training World Models with Reinforcement Learning**|Jialong Wu et.al.|[2505.13934](http://arxiv.org/abs/2505.13934)|**[link](https://github.com/thuml/RLVR-World)**|
 |**2025-05-20**|**Time Reversal Symmetry for Efficient Robotic Manipulations in Deep Reinforcement Learning**|Yunpeng Jiang et.al.|[2505.13925](http://arxiv.org/abs/2505.13925)|null|
 |**2025-05-20**|**Learning to Insert for Constructive Neural Vehicle Routing Solver**|Fu Luo et.al.|[2505.13904](http://arxiv.org/abs/2505.13904)|null|
@@ -164,7 +164,7 @@
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
 |**2025-05-11**|**X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real**|Prithwish Dan et.al.|[2505.07096](http://arxiv.org/abs/2505.07096)|null|
 |**2025-05-11**|**Dynamic Safety in Complex Environments: Synthesizing Safety Filters with Poisson's Equation**|Gilbert Bahati et.al.|[2505.06794](http://arxiv.org/abs/2505.06794)|null|
-|**2025-05-10**|**JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes**|Shalin Anand Jain et.al.|[2505.06771](http://arxiv.org/abs/2505.06771)|null|
+|**2025-05-10**|**JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes**|Shalin Anand Jain et.al.|[2505.06771](http://arxiv.org/abs/2505.06771)|**[link](https://github.com/gt-star-lab/jaxrobotarium)**|
 |**2025-05-10**|**Learned IMU Bias Prediction for Invariant Visual Inertial Odometry**|Abdullah Altawaitan et.al.|[2505.06748](http://arxiv.org/abs/2505.06748)|null|
 |**2025-05-10**|**ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation**|Zhongquan Zhou et.al.|[2505.06628](http://arxiv.org/abs/2505.06628)|null|
 |**2025-05-10**|**Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**|Minting Pan et.al.|[2505.06482](http://arxiv.org/abs/2505.06482)|null|
@@ -1303,7 +1303,7 @@
 |**2025-05-22**|**FS-DAG: Few Shot Domain Adapting Graph Networks for Visually Rich Document Understanding**|Amit Agarwal et.al.|[2505.17330](http://arxiv.org/abs/2505.17330)|null|
 |**2025-05-22**|**Model-Free Graph Data Selection under Distribution Shift**|Ting-Wei Li et.al.|[2505.17293](http://arxiv.org/abs/2505.17293)|null|
 |**2025-05-22**|**GCAL: Adapting Graph Models to Evolving Domain Shifts**|Ziyue Qiao et.al.|[2505.16860](http://arxiv.org/abs/2505.16860)|**[link](https://github.com/joe817/gcal)**|
-|**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850](http://arxiv.org/abs/2505.16850)|null|
+|**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850](http://arxiv.org/abs/2505.16850)|**[link](https://github.com/tajamul21/atr-bench)**|
 |**2025-05-22**|**Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation**|Estelle Chigot et.al.|[2505.16360](http://arxiv.org/abs/2505.16360)|**[link](https://github.com/echigot/cactif)**|
 |**2025-05-21**|**SynEVO: A neuro-inspired spatiotemporal evolutional framework for cross-domain adaptation**|Jiayue Liu et.al.|[2505.16080](http://arxiv.org/abs/2505.16080)|null|
 |**2025-05-21**|**Image-to-Image Translation with Diffusion Transformers and CLIP-Based Image Conditioning**|Qiang Zhu et.al.|[2505.16001](http://arxiv.org/abs/2505.16001)|null|
@@ -1787,7 +1787,7 @@
 |**2024-12-02**|**CRISP: Object Pose and Shape Estimation with Test-Time Adaptation**|Jingnan Shi et.al.|[2412.01052](http://arxiv.org/abs/2412.01052)|null|
 |**2024-12-01**|**From Priest to Doctor: Domain Adaptaion for Low-Resource Neural Machine Translation**|Ali Marashian et.al.|[2412.00966](http://arxiv.org/abs/2412.00966)|**[link](https://github.com/alimrsn79/da_lr_nmt)**|
 |**2024-12-01**|**Enhancing the Generalization Capability of Skin Lesion Classification Models with Active Domain Adaptation Methods**|Jun Ye et.al.|[2412.00702](http://arxiv.org/abs/2412.00702)|null|
-|**2024-12-01**|**MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning**|You Wu et.al.|[2412.00626](http://arxiv.org/abs/2412.00626)|null|
+|**2024-12-01**|**MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning**|You Wu et.al.|[2412.00626](http://arxiv.org/abs/2412.00626)|**[link](https://github.com/wuyou3474/mambanut)**|
 |**2024-11-30**|**SeQwen at the Financial Misinformation Detection Challenge Task: Sequential Learning for Claim Verification and Explanation Generation in Financial Domains**|Jebish Purbey et.al.|[2412.00549](http://arxiv.org/abs/2412.00549)|null|
 |**2024-11-30**|**Few-Shot Domain Adaptation for Named-Entity Recognition via Joint Constrained k-Means and Subspace Selection**|Ayoub Hammal et.al.|[2412.00426](http://arxiv.org/abs/2412.00426)|**[link](https://github.com/ayoubhammal/ckss4ner)**|
 |**2024-11-29**|**On Domain-Specific Post-Training for Multimodal Large Language Models**|Daixuan Cheng et.al.|[2411.19930](http://arxiv.org/abs/2411.19930)|null|
@@ -2448,7 +2448,7 @@
 |**2025-05-27**|**MMTBENCH: A Unified Benchmark for Complex Multimodal Table Reasoning**|Prasham Yatinkumar Titiya et.al.|[2505.21771](http://arxiv.org/abs/2505.21771)|null|
 |**2025-05-27**|**MedBridge: Bridging Foundation Vision-Language Models to Medical Image Diagnosis**|Yitong Li et.al.|[2505.21698](http://arxiv.org/abs/2505.21698)|null|
 |**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500](http://arxiv.org/abs/2505.21500)|null|
-|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|null|
+|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|**[link](https://github.com/nicerwang/adinject)**|
 |**2025-05-27**|**Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration**|Mehrdad Fazli et.al.|[2505.21472](http://arxiv.org/abs/2505.21472)|null|
 |**2025-05-27**|**ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution Adaptation in Vision-Language Models**|Bozhou Li et.al.|[2505.21465](http://arxiv.org/abs/2505.21465)|null|
 |**2025-05-27**|**LazyVLM: Neuro-Symbolic Approach to Video Analytics**|Xiangru Jian et.al.|[2505.21459](http://arxiv.org/abs/2505.21459)|null|
@@ -2457,12 +2457,12 @@
 |**2025-05-27**|**Interpreting Social Bias in LVLMs via Information Flow Analysis and Multi-Round Dialogue Evaluation**|Zhengyang Ji et.al.|[2505.21106](http://arxiv.org/abs/2505.21106)|null|
 |**2025-05-27**|**DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response**|Junjue Wang et.al.|[2505.21089](http://arxiv.org/abs/2505.21089)|null|
 |**2025-05-27**|**LPOI: Listwise Preference Optimization for Vision Language Models**|Fatemeh Pesaran Zadeh et.al.|[2505.21061](http://arxiv.org/abs/2505.21061)|null|
-|**2025-05-27**|**RefAV: Towards Planning-Centric Scenario Mining**|Cainan Davidson et.al.|[2505.20981](http://arxiv.org/abs/2505.20981)|null|
+|**2025-05-27**|**RefAV: Towards Planning-Centric Scenario Mining**|Cainan Davidson et.al.|[2505.20981](http://arxiv.org/abs/2505.20981)|**[link](https://github.com/cainand/refav)**|
 |**2025-05-27**|**On VLMs for Diverse Tasks in Multimodal Meme Classification**|Deepesh Gavit et.al.|[2505.20937](http://arxiv.org/abs/2505.20937)|null|
 |**2025-05-27**|**A Stereotype Content Analysis on Color-related Social Bias in Large Vision Language Models**|Junhyuk Choi et.al.|[2505.20901](http://arxiv.org/abs/2505.20901)|null|
 |**2025-05-27**|**AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding**|Chaeyoung Jung et.al.|[2505.20862](http://arxiv.org/abs/2505.20862)|null|
 |**2025-05-27**|**Rendering-Aware Reinforcement Learning for Vector Graphics Generation**|Juan A. Rodriguez et.al.|[2505.20793](http://arxiv.org/abs/2505.20793)|null|
-|**2025-05-27**|**FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation**|Jiaping Xiao et.al.|[2505.20783](http://arxiv.org/abs/2505.20783)|null|
+|**2025-05-27**|**FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation**|Jiaping Xiao et.al.|[2505.20783](http://arxiv.org/abs/2505.20783)|**[link](https://github.com/ntu-icg/fm-planner)**|
 |**2025-05-27**|**Jigsaw-Puzzles: From Seeing to Understanding to Reasoning in Vision-Language Models**|Zesen Lyu et.al.|[2505.20728](http://arxiv.org/abs/2505.20728)|null|
 |**2025-05-27**|**ManiTaskGen: A Comprehensive Task Generator for Benchmarking and Improving Vision-Language Agents on Embodied Decision-Making**|Liu Dai et.al.|[2505.20726](http://arxiv.org/abs/2505.20726)|null|
 |**2025-05-27**|**Automating eHMI Action Design with LLMs for Automated Vehicle Communication**|Ding Xia et.al.|[2505.20711](http://arxiv.org/abs/2505.20711)|null|
@@ -2475,16 +2475,16 @@
 |**2025-05-26**|**Can Visual Encoder Learn to See Arrows?**|Naoyuki Terashita et.al.|[2505.19944](http://arxiv.org/abs/2505.19944)|null|
 |**2025-05-26**|**Attention! You Vision Language Model Could Be Maliciously Manipulated**|Xiaosen Wang et.al.|[2505.19911](http://arxiv.org/abs/2505.19911)|null|
 |**2025-05-26**|**Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement**|Afrah Shaahid et.al.|[2505.19895](http://arxiv.org/abs/2505.19895)|null|
-|**2025-05-26**|**One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP**|Binyan Xu et.al.|[2505.19840](http://arxiv.org/abs/2505.19840)|null|
+|**2025-05-26**|**One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP**|Binyan Xu et.al.|[2505.19840](http://arxiv.org/abs/2505.19840)|**[link](https://github.com/binyxu/univintruder)**|
 |**2025-05-26**|**TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning**|Yuhui Chen et.al.|[2505.19769](http://arxiv.org/abs/2505.19769)|null|
 |**2025-05-26**|**Modeling Beyond MOS: Quality Assessment Models Must Integrate Context, Reasoning, and Multimodality**|Mohamed Amine Kerkouri et.al.|[2505.19696](http://arxiv.org/abs/2505.19696)|null|
 |**2025-05-26**|**Grounding Language with Vision: A Conditional Mutual Information Calibrated Decoding Strategy for Reducing Hallucinations in LVLMs**|Hao Fang et.al.|[2505.19678](http://arxiv.org/abs/2505.19678)|null|
 |**2025-05-26**|**JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models**|Jiaxin Song et.al.|[2505.19610](http://arxiv.org/abs/2505.19610)|null|
 |**2025-05-26**|**What You Perceive Is What You Conceive: A Cognition-Inspired Framework for Open Vocabulary Image Segmentation**|Jianghang Lin et.al.|[2505.19569](http://arxiv.org/abs/2505.19569)|null|
-|**2025-05-26**|**FlowCut: Rethinking Redundancy via Information Flow for Efficient Vision-Language Models**|Jintao Tong et.al.|[2505.19536](http://arxiv.org/abs/2505.19536)|null|
-|**2025-05-26**|**Locality-Aware Zero-Shot Human-Object Interaction Detection**|Sanghyun Kim et.al.|[2505.19503](http://arxiv.org/abs/2505.19503)|null|
+|**2025-05-26**|**FlowCut: Rethinking Redundancy via Information Flow for Efficient Vision-Language Models**|Jintao Tong et.al.|[2505.19536](http://arxiv.org/abs/2505.19536)|**[link](https://github.com/tungchintao/flowcut)**|
+|**2025-05-26**|**Locality-Aware Zero-Shot Human-Object Interaction Detection**|Sanghyun Kim et.al.|[2505.19503](http://arxiv.org/abs/2505.19503)|**[link](https://github.com/oreochocolate/lain)**|
 |**2025-05-26**|**Enhancing Visual Reliance in Text Generation: A Bayesian Perspective on Mitigating Hallucination in Large Vision-Language Models**|Nanxing Hu et.al.|[2505.19498](http://arxiv.org/abs/2505.19498)|null|
-|**2025-05-26**|**Unveiling the Compositional Ability Gap in Vision-Language Reasoning Model**|Tianle Li et.al.|[2505.19406](http://arxiv.org/abs/2505.19406)|null|
+|**2025-05-26**|**Unveiling the Compositional Ability Gap in Vision-Language Reasoning Model**|Tianle Li et.al.|[2505.19406](http://arxiv.org/abs/2505.19406)|**[link](https://github.com/ltl3a87/compa)**|
 |**2025-05-27**|**DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**|Anqing Jiang et.al.|[2505.19381](http://arxiv.org/abs/2505.19381)|null|
 |**2025-05-26**|**DiSa: Directional Saliency-Aware Prompt Learning for Generalizable Vision-Language Models**|Niloufar Alipour Talemi et.al.|[2505.19373](http://arxiv.org/abs/2505.19373)|null|
 |**2025-05-23**|**VideoGameBench: Can Vision-Language Models complete popular video games?**|Alex L. Zhang et.al.|[2505.18134](http://arxiv.org/abs/2505.18134)|null|
@@ -2504,7 +2504,7 @@
 |**2025-05-23**|**Enhancing Large Vision-Language Models with Layout Modality for Table Question Answering on Japanese Annual Securities Reports**|Hayato Aida et.al.|[2505.17625](http://arxiv.org/abs/2505.17625)|null|
 |**2025-05-23**|**CAS-IQA: Teaching Vision-Language Models for Synthetic Angiography Quality Assessment**|Bo Wang et.al.|[2505.17619](http://arxiv.org/abs/2505.17619)|null|
 |**2025-05-23**|**Decoupled Visual Interpretation and Linguistic Reasoning for Math Problem Solving**|Zixian Guo et.al.|[2505.17609](http://arxiv.org/abs/2505.17609)|null|
-|**2025-05-23**|**A Unified Multi-Scale Attention-Based Network for Automatic 3D Segmentation of Lung Parenchyma & Nodules In Thoracic CT Images**|Muhammad Abdullah et.al.|[2505.17602](http://arxiv.org/abs/2505.17602)|null|
+|**2025-05-23**|**A Unified Multi-Scale Attention-Based Network for Automatic 3D Segmentation of Lung Parenchyma & Nodules In Thoracic CT Images**|Muhammad Abdullah et.al.|[2505.17602](http://arxiv.org/abs/2505.17602)|**[link](https://github.com/emeraldsnrpu/attention-based-3d-resunet)**|
 |**2025-05-23**|**Multimodal Conversation Structure Understanding**|Kent K. Chang et.al.|[2505.17536](http://arxiv.org/abs/2505.17536)|null|
 |**2025-05-23**|**Do You Keep an Eye on What I Ask? Mitigating Multimodal Hallucination via Attention-Guided Ensemble Decoding**|Yeongjae Cho et.al.|[2505.17529](http://arxiv.org/abs/2505.17529)|null|
 |**2025-05-23**|**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**|Jiaqi Wang et.al.|[2505.16854](http://arxiv.org/abs/2505.16854)|**[link](https://github.com/kokolerk/ton)**|
@@ -2540,7 +2540,7 @@
 |**2025-05-21**|**Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models**|Jiaying Wu et.al.|[2505.15489](http://arxiv.org/abs/2505.15489)|null|
 |**2025-05-21**|**Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL**|Xintong Zhang et.al.|[2505.15436](http://arxiv.org/abs/2505.15436)|null|
 |**2025-05-21**|**TimeCausality: Evaluating the Causal Ability in Time Dimension for Vision Language Models**|Zeqing Wang et.al.|[2505.15435](http://arxiv.org/abs/2505.15435)|**[link](https://github.com/zeqing-wang/timecausality)**|
-|**2025-05-21**|**On the Robustness of Medical Vision-Language Models: Are they Truly Generalizable?**|Raza Imam et.al.|[2505.15425](http://arxiv.org/abs/2505.15425)|null|
+|**2025-05-21**|**On the Robustness of Medical Vision-Language Models: Are they Truly Generalizable?**|Raza Imam et.al.|[2505.15425](http://arxiv.org/abs/2505.15425)|**[link](https://github.com/biomedia-mbzuai/robustmedclip)**|
 |**2025-05-21**|**Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study**|DongGeon Lee et.al.|[2505.15389](http://arxiv.org/abs/2505.15389)|null|
 |**2025-05-21**|**RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation**|Naman Patel et.al.|[2505.15373](http://arxiv.org/abs/2505.15373)|null|
 |**2025-05-21**|**Better Safe Than Sorry? Overreaction Problem of Vision Language Models in Visual Emergency Recognition**|Dasol Choi et.al.|[2505.15367](http://arxiv.org/abs/2505.15367)|null|
@@ -2587,7 +2587,7 @@
 |**2025-05-19**|**AutoMat: Enabling Automated Crystal Structure Reconstruction from Microscopy via Agentic Tool Use**|Yaotian Yang et.al.|[2505.12650](http://arxiv.org/abs/2505.12650)|**[link](https://github.com/yyt-2378/automat)**|
 |**2025-05-19**|**Use as Many Surrogates as You Want: Selective Ensemble Attack to Unleash Transferability without Sacrificing Resource Efficiency**|Bo Yang et.al.|[2505.12644](http://arxiv.org/abs/2505.12644)|null|
 |**2025-05-19**|**Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents**|Yunseok Jang et.al.|[2505.12632](http://arxiv.org/abs/2505.12632)|null|
-|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|null|
+|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|**[link](https://github.com/wenchuan-zhang/patho-r1)**|
 |**2025-05-16**|**Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild**|Derek Ming Siang Tan et.al.|[2505.11350](http://arxiv.org/abs/2505.11350)|null|
 |**2025-05-16**|**Temporally-Grounded Language Generation: A Benchmark for Real-Time Vision-Language Models**|Keunwoo Peter Yu et.al.|[2505.11326](http://arxiv.org/abs/2505.11326)|**[link](https://github.com/yukw777/tglg)**|
 |**2025-05-16**|**Sample Efficient Reinforcement Learning via Large Vision Language Model Distillation**|Donghoon Lee et.al.|[2505.11221](http://arxiv.org/abs/2505.11221)|**[link](https://github.com/i22024/lvlm2p)**|
@@ -2764,7 +2764,7 @@
 |**2025-04-23**|**Streetscape Analysis with Generative AI (SAGAI): Vision-Language Assessment and Mapping of Urban Scenes**|Joan Perez et.al.|[2504.16538](http://arxiv.org/abs/2504.16538)|null|
 |**2025-04-23**|**TraveLLaMA: Facilitating Multi-modal Large Language Models to Understand Urban Scenes and Provide Travel Assistance**|Meng Chu et.al.|[2504.16505](http://arxiv.org/abs/2504.16505)|null|
 |**2025-04-23**|**FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing**|Hariseetharam Gunduboina et.al.|[2504.16433](http://arxiv.org/abs/2504.16433)|null|
-|**2025-04-22**|**CLIP-IT: CLIP-based Pairing for Histology Images Classification**|Banafsheh Karimian et.al.|[2504.16181](http://arxiv.org/abs/2504.16181)|null|
+|**2025-04-22**|**CLIP-IT: CLIP-based Pairing for Histology Images Classification**|Banafsheh Karimian et.al.|[2504.16181](http://arxiv.org/abs/2504.16181)|**[link](https://github.com/BanafshehKarimian/ModalityPairing)**|
 |**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
 |**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
 |**2025-04-22**|**Describe Anything: Detailed Localized Image and Video Captioning**|Long Lian et.al.|[2504.16072](http://arxiv.org/abs/2504.16072)|null|
@@ -3611,7 +3611,7 @@
 |**2025-01-07**|**Realistic Test-Time Adaptation of Vision-Language Models**|Maxime Zanella et.al.|[2501.03729](http://arxiv.org/abs/2501.03729)|**[link](https://github.com/maxzanella/stata)**|
 |**2025-01-07**|**Self-adaptive vision-language model for 3D segmentation of pulmonary artery and vein**|Xiaotong Guo et.al.|[2501.03722](http://arxiv.org/abs/2501.03722)|null|
 |**2025-01-07**|**SMIR: Efficient Synthetic Data Pipeline To Improve Multi-Image Reasoning**|Andrew Li et.al.|[2501.03675](http://arxiv.org/abs/2501.03675)|**[link](https://github.com/togethercomputer/smir)**|
-|**2025-01-06**|**OpenLKA: an open dataset of lane keeping assist from market autonomous vehicles**|Yuhang Wang et.al.|[2501.03287](http://arxiv.org/abs/2501.03287)|null|
+|**2025-01-06**|**OpenLKA: an open dataset of lane keeping assist from market autonomous vehicles**|Yuhang Wang et.al.|[2501.03287](http://arxiv.org/abs/2501.03287)|**[link](https://github.com/openlka/openlka)**|
 |**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225](http://arxiv.org/abs/2501.03225)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
 |**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
 |**2025-01-06**|**MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models**|Wenyi Hong et.al.|[2501.02955](http://arxiv.org/abs/2501.02955)|null|
@@ -4141,7 +4141,7 @@
 |**2024-10-18**|**Zero-shot Action Localization via the Confidence of Large Vision-Language Models**|Josiah Aklilu et.al.|[2410.14340](http://arxiv.org/abs/2410.14340)|null|
 |**2024-10-18**|**E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model**|Haoran Lai et.al.|[2410.14200](http://arxiv.org/abs/2410.14200)|null|
 |**2024-10-18**|**LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs**|Yujun Zhou et.al.|[2410.14182](http://arxiv.org/abs/2410.14182)|null|
-|**2024-10-18**|**MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems**|Zifeng Zhu et.al.|[2410.14179](http://arxiv.org/abs/2410.14179)|null|
+|**2024-10-18**|**MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems**|Zifeng Zhu et.al.|[2410.14179](http://arxiv.org/abs/2410.14179)|**[link](https://github.com/zivenzhu/multi-chart-qa)**|
 |**2024-10-18**|**ProReason: Multi-Modal Proactive Reasoning with Decoupled Eyesight and Wisdom**|Jingqi Zhou et.al.|[2410.14138](http://arxiv.org/abs/2410.14138)|null|
 |**2024-10-17**|**Efficient Vision-Language Models by Summarizing Visual Tokens into Compact Registers**|Yuxin Wen et.al.|[2410.14072](http://arxiv.org/abs/2410.14072)|null|
 |**2024-10-17**|**Reproducibility study of "LICO: Explainable Models with Language-Image Consistency"**|Luan Fletcher et.al.|[2410.13989](http://arxiv.org/abs/2410.13989)|**[link](https://github.com/robertdvdk/lico-fact)**|
@@ -5009,7 +5009,7 @@
 |**2025-03-19**|**Critical review of patient outcome study in head and neck cancer radiotherapy**|Jingyuan Chen et.al.|[2503.15691](http://arxiv.org/abs/2503.15691)|null|
 |**2025-03-19**|**An extensive simulation study evaluating the interaction of resampling techniques across multiple causal discovery contexts**|Ritwick Banerjee et.al.|[2503.15436](http://arxiv.org/abs/2503.15436)|null|
 |**2025-03-19**|**World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child**|Javier Del Ser et.al.|[2503.15168](http://arxiv.org/abs/2503.15168)|null|
-|**2025-03-19**|**DeCaFlow: A Deconfounding Causal Generative Model**|Alejandro Almodóvar et.al.|[2503.15114](http://arxiv.org/abs/2503.15114)|null|
+|**2025-03-19**|**DeCaFlow: A Deconfounding Causal Generative Model**|Alejandro Almodóvar et.al.|[2503.15114](http://arxiv.org/abs/2503.15114)|**[link](https://github.com/aalmodovares/decaflow)**|
 |**2025-03-18**|**Generating Causal Explanations of Vehicular Agent Behavioural Interactions with Learnt Reward Profiles**|Rhys Howard et.al.|[2503.14557](http://arxiv.org/abs/2503.14557)|**[link](https://github.com/cognitive-robots/gce_vbai_lrp_paper_resources)**|
 |**2025-03-18**|**Doubly robust identification of treatment effects from multiple environments**|Piersilvio De Bartolomeis et.al.|[2503.14459](http://arxiv.org/abs/2503.14459)|**[link](https://github.com/jaabmar/RAMEN)**|
 |**2025-03-18**|**Inducing Causal Structure for Interpretable Neural Networks Applied to Glucose Prediction for T1DM Patients**|Ana Esponera et.al.|[2503.14442](http://arxiv.org/abs/2503.14442)|**[link](https://github.com/aespogom/IIT_simglucose)**|
@@ -5050,7 +5050,7 @@
 |**2025-03-08**|**UrbanVideo-Bench: Benchmarking Vision-Language Models on Embodied Intelligence with Video Data in Urban Spaces**|Baining Zhao et.al.|[2503.06157](http://arxiv.org/abs/2503.06157)|null|
 |**2025-03-07**|**Black Box Causal Inference: Effect Estimation via Meta Prediction**|Lucius E. J. Bynum et.al.|[2503.05985](http://arxiv.org/abs/2503.05985)|null|
 |**2025-03-07**|**Riemannian Metric Learning: Closer to You than You Imagine**|Samuel Gruffaz et.al.|[2503.05321](http://arxiv.org/abs/2503.05321)|null|
-|**2025-03-10**|**Kernel-based estimators for functional causal effects**|Yordan P. Raykov et.al.|[2503.05024](http://arxiv.org/abs/2503.05024)|null|
+|**2025-03-10**|**Kernel-based estimators for functional causal effects**|Yordan P. Raykov et.al.|[2503.05024](http://arxiv.org/abs/2503.05024)|**[link](https://github.com/jordanraykov/kernel-based-estimators-for-functional-causal-effects)**|
 |**2025-03-06**|**CAUSAL3D: A Comprehensive Benchmark for Causal Learning from Visual Data**|Disheng Liu et.al.|[2503.04852](http://arxiv.org/abs/2503.04852)|null|
 |**2025-03-08**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|**[link](https://github.com/landiff/landiff)**|
 |**2025-03-06**|**Compositional Causal Reasoning Evaluation in Language Models**|Jacqueline R. M. A. Maasch et.al.|[2503.04556](http://arxiv.org/abs/2503.04556)|null|
@@ -5163,7 +5163,7 @@
 |**2025-02-08**|**Generalized Simple Graphical Rules for Assessing Selection Bias**|Yichi Zhang et.al.|[2502.00924](http://arxiv.org/abs/2502.00924)|null|
 |**2025-02-02**|**Topological flow data analysis for transient flow patterns: a graph-based approach**|Takashi Sakajo et.al.|[2502.00664](http://arxiv.org/abs/2502.00664)|null|
 |**2025-02-01**|**Optimizing Feature Selection in Causal Inference: A Three-Stage Computational Framework for Unbiased Estimation**|Tianyu Yang et.al.|[2502.00501](http://arxiv.org/abs/2502.00501)|null|
-|**2025-02-01**|**Causal Abstraction Learning based on the Semantic Embedding Principle**|Gabriele D'Acunto et.al.|[2502.00407](http://arxiv.org/abs/2502.00407)|null|
+|**2025-02-01**|**Causal Abstraction Learning based on the Semantic Embedding Principle**|Gabriele D'Acunto et.al.|[2502.00407](http://arxiv.org/abs/2502.00407)|**[link](https://github.com/SPAICOM/calsep)**|
 |**2025-01-31**|**Fixed-Population Causal Inference for Models of Equilibrium**|Konrad Menzel et.al.|[2501.19394](http://arxiv.org/abs/2501.19394)|null|
 |**2025-01-31**|**PUATE: Semiparametric Efficient Average Treatment Effect Estimation from Treated (Positive) and Unlabeled Units**|Masahiro Kato et.al.|[2501.19345](http://arxiv.org/abs/2501.19345)|null|
 |**2025-02-03**|**What is causal about causal models and representations?**|Frederik Hytting Jørgensen et.al.|[2501.19335](http://arxiv.org/abs/2501.19335)|null|
@@ -5270,7 +5270,7 @@
 |**2024-12-18**|**Discovering maximally consistent distribution of causal tournaments with Large Language Models**|Federico Baldo et.al.|[2412.14019](http://arxiv.org/abs/2412.14019)|null|
 |**2024-12-18**|**What If: Causal Analysis with Graph Databases**|Amedeo Pachera et.al.|[2412.13965](http://arxiv.org/abs/2412.13965)|null|
 |**2024-12-18**|**Prompting Strategies for Enabling Large Language Models to Infer Causation from Correlation**|Eleni Sgouritsa et.al.|[2412.13952](http://arxiv.org/abs/2412.13952)|null|
-|**2024-12-18**|**Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery**|ChengAo Shen et.al.|[2412.13667](http://arxiv.org/abs/2412.13667)|null|
+|**2024-12-18**|**Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery**|ChengAo Shen et.al.|[2412.13667](http://arxiv.org/abs/2412.13667)|**[link](https://github.com/D2I-Group/matmcd)**|
 |**2024-12-19**|**Revisiting Interactions of Multiple Driver States in Heterogenous Population and Cognitive Tasks**|Jiyao Wang et.al.|[2412.13574](http://arxiv.org/abs/2412.13574)|null|
 |**2024-12-18**|**CA-Edit: Causality-Aware Condition Adapter for High-Fidelity Local Facial Attribute Editing**|Xiaole Xian et.al.|[2412.13565](http://arxiv.org/abs/2412.13565)|**[link](https://github.com/connorxian/ca-edit)**|
 |**2024-12-16**|**Causally Consistent Normalizing Flow**|Qingyang Zhou et.al.|[2412.12401](http://arxiv.org/abs/2412.12401)|null|
