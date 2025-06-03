@@ -1,4 +1,4 @@
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1268,14 +1268,14 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|**[link](https://github.com/vineet2104/hifics)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## DA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-30**|**Contrast-Invariant Self-supervised Segmentation for Quantitative Placental MRI**|Xinliu Zhong et.al.|[2505.24739](http://arxiv.org/abs/2505.24739)|null|
-|**2025-05-30**|**MSDA: Combining Pseudo-labeling and Self-Supervision for Unsupervised Domain Adaptation in ASR**|Dimitrios Damianos et.al.|[2505.24656](http://arxiv.org/abs/2505.24656)|null|
+|**2025-06-02**|**MSDA: Combining Pseudo-labeling and Self-Supervision for Unsupervised Domain Adaptation in ASR**|Dimitrios Damianos et.al.|[2505.24656](http://arxiv.org/abs/2505.24656)|null|
 |**2025-05-30**|**Unleashing the Power of Intermediate Domains for Mixed Domain Semi-Supervised Medical Image Segmentation**|Qinghe Ma et.al.|[2505.24567](http://arxiv.org/abs/2505.24567)|null|
 |**2025-05-30**|**Interactive Video Generation via Domain Adaptation**|Ishaan Rawal et.al.|[2505.24253](http://arxiv.org/abs/2505.24253)|null|
 |**2025-05-30**|**Shuffle PatchMix Augmentation with Confidence-Margin Weighted Pseudo-Labels for Enhanced Source-Free Domain Adaptation**|Prasanna Reddy Pulakurthi et.al.|[2505.24216](http://arxiv.org/abs/2505.24216)|null|
@@ -2021,7 +2021,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## DG
 
@@ -2422,7 +2422,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## VLM
 
@@ -4420,14 +4420,14 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Prompt
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-28**|**ValueSim: Generating Backstories to Model Individual Value Systems**|Bangde Du et.al.|[2505.23827](http://arxiv.org/abs/2505.23827)|null|
-|**2025-05-29**|**DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers**|Li Ren et.al.|[2505.23694](http://arxiv.org/abs/2505.23694)|null|
+|**2025-06-01**|**DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers**|Li Ren et.al.|[2505.23694](http://arxiv.org/abs/2505.23694)|null|
 |**2025-05-29**|**An Empirical Study of Federated Prompt Learning for Vision Language Model**|Zhihao Wang et.al.|[2505.23024](http://arxiv.org/abs/2505.23024)|null|
 |**2025-05-29**|**Foundation Molecular Grammar: Multi-Modal Foundation Models Induce Interpretable Molecular Graph Languages**|Michael Sun et.al.|[2505.22948](http://arxiv.org/abs/2505.22948)|null|
 |**2025-05-28**|**Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models**|Sizai Hou et.al.|[2505.22447](http://arxiv.org/abs/2505.22447)|null|
@@ -4828,7 +4828,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -4842,7 +4842,7 @@
 |**2025-05-28**|**The WHY in Business Processes: Unification of Causal Process Models**|Yuval David et.al.|[2505.22871](http://arxiv.org/abs/2505.22871)|null|
 |**2025-05-28**|**A Synthetic Business Cycle Approach to Counterfactual Analysis with Nonstationary Macroeconomic Data**|Zhentao Shi et.al.|[2505.22388](http://arxiv.org/abs/2505.22388)|null|
 |**2025-05-28**|**A2Seek: Towards Reasoning-Centric Benchmark for Aerial Anomaly Understanding**|Mengjingcheng Mo et.al.|[2505.21962](http://arxiv.org/abs/2505.21962)|null|
-|**2025-05-28**|**Causal Inference for Experiments with Latent Outcomes: Key Results and Their Implications for Design and Analysis**|Jiawei Fu et.al.|[2505.21909](http://arxiv.org/abs/2505.21909)|null|
+|**2025-06-01**|**Causal Inference for Experiments with Latent Outcomes: Key Results and Their Implications for Design and Analysis**|Jiawei Fu et.al.|[2505.21909](http://arxiv.org/abs/2505.21909)|null|
 |**2025-05-28**|**MAMBO-NET: Multi-Causal Aware Modeling Backdoor-Intervention Optimization for Medical Image Segmentation Network**|Ruiguo Yu et.al.|[2505.21874](http://arxiv.org/abs/2505.21874)|null|
 |**2025-05-27**|**A Bayesian approach to the survivor average causal effect in cluster-randomized crossover trials**|Dane Isenberg et.al.|[2505.21447](http://arxiv.org/abs/2505.21447)|null|
 |**2025-05-27**|**Debiased Ill-Posed Regression**|AmirEmad Ghassami et.al.|[2505.20787](http://arxiv.org/abs/2505.20787)|null|
@@ -5598,7 +5598,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Adversarial
 
@@ -6154,5 +6154,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 

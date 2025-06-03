@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -1264,7 +1264,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-30**|**Contrast-Invariant Self-supervised Segmentation for Quantitative Placental MRI**|Xinliu Zhong et.al.|[2505.24739](http://arxiv.org/abs/2505.24739)|null|
-|**2025-05-30**|**MSDA: Combining Pseudo-labeling and Self-Supervision for Unsupervised Domain Adaptation in ASR**|Dimitrios Damianos et.al.|[2505.24656](http://arxiv.org/abs/2505.24656)|null|
+|**2025-06-02**|**MSDA: Combining Pseudo-labeling and Self-Supervision for Unsupervised Domain Adaptation in ASR**|Dimitrios Damianos et.al.|[2505.24656](http://arxiv.org/abs/2505.24656)|null|
 |**2025-05-30**|**Unleashing the Power of Intermediate Domains for Mixed Domain Semi-Supervised Medical Image Segmentation**|Qinghe Ma et.al.|[2505.24567](http://arxiv.org/abs/2505.24567)|null|
 |**2025-05-30**|**Interactive Video Generation via Domain Adaptation**|Ishaan Rawal et.al.|[2505.24253](http://arxiv.org/abs/2505.24253)|null|
 |**2025-05-30**|**Shuffle PatchMix Augmentation with Confidence-Margin Weighted Pseudo-Labels for Enhanced Source-Free Domain Adaptation**|Prasanna Reddy Pulakurthi et.al.|[2505.24216](http://arxiv.org/abs/2505.24216)|null|
@@ -4410,7 +4410,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-28**|**ValueSim: Generating Backstories to Model Individual Value Systems**|Bangde Du et.al.|[2505.23827](http://arxiv.org/abs/2505.23827)|null|
-|**2025-05-29**|**DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers**|Li Ren et.al.|[2505.23694](http://arxiv.org/abs/2505.23694)|null|
+|**2025-06-01**|**DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers**|Li Ren et.al.|[2505.23694](http://arxiv.org/abs/2505.23694)|null|
 |**2025-05-29**|**An Empirical Study of Federated Prompt Learning for Vision Language Model**|Zhihao Wang et.al.|[2505.23024](http://arxiv.org/abs/2505.23024)|null|
 |**2025-05-29**|**Foundation Molecular Grammar: Multi-Modal Foundation Models Induce Interpretable Molecular Graph Languages**|Michael Sun et.al.|[2505.22948](http://arxiv.org/abs/2505.22948)|null|
 |**2025-05-28**|**Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models**|Sizai Hou et.al.|[2505.22447](http://arxiv.org/abs/2505.22447)|null|
@@ -4823,7 +4823,7 @@ layout: default
 |**2025-05-28**|**The WHY in Business Processes: Unification of Causal Process Models**|Yuval David et.al.|[2505.22871](http://arxiv.org/abs/2505.22871)|null|
 |**2025-05-28**|**A Synthetic Business Cycle Approach to Counterfactual Analysis with Nonstationary Macroeconomic Data**|Zhentao Shi et.al.|[2505.22388](http://arxiv.org/abs/2505.22388)|null|
 |**2025-05-28**|**A2Seek: Towards Reasoning-Centric Benchmark for Aerial Anomaly Understanding**|Mengjingcheng Mo et.al.|[2505.21962](http://arxiv.org/abs/2505.21962)|null|
-|**2025-05-28**|**Causal Inference for Experiments with Latent Outcomes: Key Results and Their Implications for Design and Analysis**|Jiawei Fu et.al.|[2505.21909](http://arxiv.org/abs/2505.21909)|null|
+|**2025-06-01**|**Causal Inference for Experiments with Latent Outcomes: Key Results and Their Implications for Design and Analysis**|Jiawei Fu et.al.|[2505.21909](http://arxiv.org/abs/2505.21909)|null|
 |**2025-05-28**|**MAMBO-NET: Multi-Causal Aware Modeling Backdoor-Intervention Optimization for Medical Image Segmentation Network**|Ruiguo Yu et.al.|[2505.21874](http://arxiv.org/abs/2505.21874)|null|
 |**2025-05-27**|**A Bayesian approach to the survivor average causal effect in cluster-randomized crossover trials**|Dane Isenberg et.al.|[2505.21447](http://arxiv.org/abs/2505.21447)|null|
 |**2025-05-27**|**Debiased Ill-Posed Regression**|AmirEmad Ghassami et.al.|[2505.20787](http://arxiv.org/abs/2505.20787)|null|
