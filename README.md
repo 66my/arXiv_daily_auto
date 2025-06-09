@@ -59,7 +59,7 @@
 |**2025-05-30**|**MagicGripper: A Multimodal Sensor-Integrated Gripper for Contact-Rich Robotic Manipulation**|Wen Fan et.al.|[2505.24382](http://arxiv.org/abs/2505.24382)|null|
 |**2025-05-30**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-05-30**|**Safety-Aware Robust Model Predictive Control for Robotic Arms in Dynamic Environments**|Sanghyeon Nam et.al.|[2505.24209](http://arxiv.org/abs/2505.24209)|null|
-|**2025-05-30**|**Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control**|Yitang Li et.al.|[2505.24198](http://arxiv.org/abs/2505.24198)|null|
+|**2025-05-30**|**Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control**|Yitang Li et.al.|[2505.24198](http://arxiv.org/abs/2505.24198)|**[link](https://github.com/lecar-lab/softa)**|
 |**2025-05-30**|**Towards a Generalizable Bimanual Foundation Policy via Flow-based Video Prediction**|Chenyou Fan et.al.|[2505.24156](http://arxiv.org/abs/2505.24156)|null|
 |**2025-05-29**|**Mobi- $π$ : Mobilizing Your Robot Learning Policy**|Jingyun Yang et.al.|[2505.23692](http://arxiv.org/abs/2505.23692)|null|
 |**2025-05-29**|**Optimization-based Posture Generation for Whole-body Contact Motion by Contact Point Search on the Body Surface**|Masaki Murooka et.al.|[2505.23501](http://arxiv.org/abs/2505.23501)|null|
@@ -153,7 +153,7 @@
 |**2025-05-18**|**BeliefNest: A Joint Action Simulator for Embodied Agents with Theory of Mind**|Rikunari Sagara et.al.|[2505.12321](http://arxiv.org/abs/2505.12321)|**[link](https://github.com/sagara-r/beliefnest)**|
 |**2025-05-18**|**PartDexTOG: Generating Dexterous Task-Oriented Grasping via Language-driven Part Analysis**|Weishang Wu et.al.|[2505.12294](http://arxiv.org/abs/2505.12294)|null|
 |**2025-05-18**|**Real-Time Spatial Reasoning by Mobile Robots for Reconstruction and Navigation in Dynamic LiDAR Scenes**|Pengdi Huang et.al.|[2505.12267](http://arxiv.org/abs/2505.12267)|**[link](https://github.com/SZU-VCC/RTRecon)**|
-|**2025-05-20**|**RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction**|Weifeng Lu et.al.|[2505.12224](http://arxiv.org/abs/2505.12224)|null|
+|**2025-05-20**|**RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction**|Weifeng Lu et.al.|[2505.12224](http://arxiv.org/abs/2505.12224)|**[link](https://github.com/mint-sjtu/robofac)**|
 |**2025-05-20**|**Learning Impact-Rich Rotational Maneuvers via Centroidal Velocity Rewards and Sim-to-Real Techniques: A One-Leg Hopper Flip Case Study**|Dongyun Kang et.al.|[2505.12222](http://arxiv.org/abs/2505.12222)|null|
 |**2025-05-17**|**L2D2: Robot Learning from 2D Drawings**|Shaunak A. Mehta et.al.|[2505.12072](http://arxiv.org/abs/2505.12072)|**[link](https://github.com/vt-collab/l2d2)**|
 |**2025-05-17**|**H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos**|Guangrun Li et.al.|[2505.11920](http://arxiv.org/abs/2505.11920)|null|
@@ -189,7 +189,7 @@
 |**2025-05-13**|**ChicGrasp: Imitation-Learning based Customized Dual-Jaw Gripper Control for Delicate, Irregular Bio-products Manipulation**|Amirreza Davar et.al.|[2505.08986](http://arxiv.org/abs/2505.08986)|null|
 |**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
 |**2025-05-13**|**Beyond Predefined Actions: Integrating Behavior Trees and Dynamic Movement Primitives for Robot Learning from Demonstration**|David Cáceres Domínguez et.al.|[2505.08625](http://arxiv.org/abs/2505.08625)|null|
-|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
+|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548](http://arxiv.org/abs/2505.08548)|**[link](https://github.com/pickxiguapi/embodied-fsd)**|
 |**2025-05-13**|**Parameter Estimation using Reinforcement Learning Causal Curiosity: Limits and Challenges**|Miguel Arana-Catania et.al.|[2505.08453](http://arxiv.org/abs/2505.08453)|null|
 |**2025-05-13**|**ORACLE-Grasp: Zero-Shot Task-Oriented Robotic Grasping using Large Multimodal Models**|Avihai Giuili et.al.|[2505.08417](http://arxiv.org/abs/2505.08417)|null|
 |**2025-05-13**|**Adaptive Diffusion Policy Optimization for Robotic Manipulation**|Huiyun Jiang et.al.|[2505.08376](http://arxiv.org/abs/2505.08376)|null|
@@ -642,7 +642,7 @@
 |**2025-02-14**|**Learning to be Smooth: An End-to-End Differentiable Particle Smoother**|Ali Younis et.al.|[2502.10546](http://arxiv.org/abs/2502.10546)|null|
 |**2025-02-14**|**MITO: Enabling Non-Line-of-Sight Perception using Millimeter-waves through Real-World Datasets and Simulation Tools**|Laura Dodds et.al.|[2502.10259](http://arxiv.org/abs/2502.10259)|**[link](https://github.com/signalkinetics/MITO_Codebase)**|
 |**2025-02-14**|**STMA: A Spatio-Temporal Memory Agent for Long-Horizon Embodied Task Planning**|Mingcong Lei et.al.|[2502.10177](http://arxiv.org/abs/2502.10177)|null|
-|**2025-02-14**|**Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models**|Chenrui Tie et.al.|[2502.10090](http://arxiv.org/abs/2502.10090)|null|
+|**2025-02-14**|**Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models**|Chenrui Tie et.al.|[2502.10090](http://arxiv.org/abs/2502.10090)|**[link](https://github.com/owensun2004/Manual2Skill)**|
 |**2025-02-14**|**Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation**|Shichao Fan et.al.|[2502.10040](http://arxiv.org/abs/2502.10040)|null|
 |**2025-02-14**|**ManiTrend: Bridging Future Generation and Action Prediction with 3D Flow for Robotic Manipulation**|Yuxin He et.al.|[2502.10028](http://arxiv.org/abs/2502.10028)|null|
 |**2025-02-11**|**Imit Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning**|Yuhang Dong et.al.|[2502.09649](http://arxiv.org/abs/2502.09649)|null|
@@ -1621,7 +1621,7 @@
 |**2025-03-06**|**MIAdapt: Source-free Few-shot Domain Adaptive Object Detection for Microscopic Images**|Nimra Dilawar et.al.|[2503.03370](http://arxiv.org/abs/2503.03370)|null|
 |**2025-03-07**|**Transformers for molecular property prediction: Domain adaptation efficiently improves performance**|Afnan Sultan et.al.|[2503.03360](http://arxiv.org/abs/2503.03360)|**[link](https://github.com/uds-lsv/domain-adaptation-molecular-transformers)**|
 |**2025-03-04**|**Robust Multi-Source Domain Adaptation under Label Shift**|Congbin Xu et.al.|[2503.02506](http://arxiv.org/abs/2503.02506)|null|
-|**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|null|
+|**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|**[link](https://github.com/heboyong/Generalized-Diffusion-Detector)**|
 |**2025-03-03**|**Robustness to Geographic Distribution Shift using Location Encoders**|Ruth Crasto et.al.|[2503.02036](http://arxiv.org/abs/2503.02036)|null|
 |**2025-03-03**|**Generate, Discriminate, Evolve: Enhancing Context Faithfulness via Fine-Grained Sentence-Level Self-Evolution**|Kun Li et.al.|[2503.01695](http://arxiv.org/abs/2503.01695)|null|
 |**2025-03-03**|**Leveraging LLMs for Mental Health: Detection and Recommendations from Social Discussions**|Vaishali Aggarwal et.al.|[2503.01442](http://arxiv.org/abs/2503.01442)|null|
@@ -1813,7 +1813,7 @@
 |**2024-12-18**|**Bridge then Begin Anew: Generating Target-relevant Intermediate Model for Source-free Visual Emotion Adaptation**|Jiankun Zhu et.al.|[2412.13577](http://arxiv.org/abs/2412.13577)|**[link](https://github.com/zhuzhu804/bba)**|
 |**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452](http://arxiv.org/abs/2412.13452)|**[link](https://github.com/zijunli7/condo)**|
 |**2024-12-17**|**Open-Set Heterogeneous Domain Adaptation: Theoretical Analysis and Algorithm**|Thai-Hoang Pham et.al.|[2412.13036](http://arxiv.org/abs/2412.13036)|null|
-|**2024-12-17**|**Differential Alignment for Domain Adaptive Object Detection**|Xinyu He et.al.|[2412.12830](http://arxiv.org/abs/2412.12830)|null|
+|**2024-12-17**|**Differential Alignment for Domain Adaptive Object Detection**|Xinyu He et.al.|[2412.12830](http://arxiv.org/abs/2412.12830)|**[link](https://github.com/estrellaxyu/differential-alignment-for-daod)**|
 |**2024-12-16**|**Domain Generalization in Autonomous Driving: Evaluating YOLOv8s, RT-DETR, and YOLO-NAS with the ROAD-Almaty Dataset**|Madiyar Alimov et.al.|[2412.12349](http://arxiv.org/abs/2412.12349)|null|
 |**2024-12-11**|**Personalized Sleep Staging Leveraging Source-free Unsupervised Domain Adaptation**|Yangxuan Zhou et.al.|[2412.12159](http://arxiv.org/abs/2412.12159)|null|
 |**2024-12-16**|**Robust Contact-rich Manipulation through Implicit Motor Adaptation**|Teng Xue et.al.|[2412.11829](http://arxiv.org/abs/2412.11829)|null|
@@ -2184,7 +2184,7 @@
 |**2025-04-13**|**Mixture-of-Shape-Experts (MoSE): End-to-End Shape Dictionary Framework to Prompt SAM for Generalizable Medical Segmentation**|Jia Wei et.al.|[2504.09601](http://arxiv.org/abs/2504.09601)|null|
 |**2025-04-10**|**Learning Fine-grained Domain Generalization via Hyperbolic State Space Hallucination**|Qi Bi et.al.|[2504.08020](http://arxiv.org/abs/2504.08020)|**[link](https://github.com/biqiwhu/hssh)**|
 |**2025-04-10**|**DGFamba: Learning Flow Factorized State Space for Visual Domain Generalization**|Qi Bi et.al.|[2504.08019](http://arxiv.org/abs/2504.08019)|null|
-|**2025-04-09**|**Domain Generalization through Attenuation of Domain-Specific Information**|Reiji Saito et.al.|[2504.06781](http://arxiv.org/abs/2504.06781)|null|
+|**2025-04-09**|**Domain Generalization through Attenuation of Domain-Specific Information**|Reiji Saito et.al.|[2504.06781](http://arxiv.org/abs/2504.06781)|**[link](https://github.com/ReijiSoftmaxSaito/ADSI)**|
 |**2025-04-09**|**SCI-Reason: A Dataset with Chain-of-Thought Rationales for Complex Multimodal Reasoning in Academic Areas**|Chenghao Ma et.al.|[2504.06637](http://arxiv.org/abs/2504.06637)|null|
 |**2025-04-09**|**Domain Generalization via Discrete Codebook Learning**|Shaocong Long et.al.|[2504.06572](http://arxiv.org/abs/2504.06572)|null|
 |**2025-04-17**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235](http://arxiv.org/abs/2504.06235)|null|
@@ -2254,9 +2254,9 @@
 |**2025-03-09**|**Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement**|Yuqi Liu et.al.|[2503.06520](http://arxiv.org/abs/2503.06520)|**[link](https://github.com/dvlab-research/Seg-Zero)**|
 |**2025-03-08**|**Single Domain Generalization with Adversarial Memory**|Hao Yan et.al.|[2503.06288](http://arxiv.org/abs/2503.06288)|null|
 |**2025-03-06**|**MIDAS: Modeling Ground-Truth Distributions with Dark Knowledge for Domain Generalized Stereo Matching**|Peng Xu et.al.|[2503.04376](http://arxiv.org/abs/2503.04376)|null|
-|**2025-03-06**|**When Claims Evolve: Evaluating and Enhancing the Robustness of Embedding Models Against Misinformation Edits**|Jabez Magomere et.al.|[2503.03417](http://arxiv.org/abs/2503.03417)|null|
+|**2025-03-06**|**When Claims Evolve: Evaluating and Enhancing the Robustness of Embedding Models Against Misinformation Edits**|Jabez Magomere et.al.|[2503.03417](http://arxiv.org/abs/2503.03417)|**[link](https://github.com/JabezNzomo99/claim-matching-robustness)**|
 |**2025-03-05**|**Predicting Practically? Domain Generalization for Predictive Analytics in Real-world Environments**|Hanyu Duan et.al.|[2503.03399](http://arxiv.org/abs/2503.03399)|**[link](https://github.com/hduanac/gradframe)**|
-|**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|null|
+|**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|**[link](https://github.com/heboyong/Generalized-Diffusion-Detector)**|
 |**2025-03-03**|**Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding**|Yiming Wang et.al.|[2503.01422](http://arxiv.org/abs/2503.01422)|null|
 |**2025-03-03**|**Unify and Anchor: A Context-Aware Transformer for Cross-Domain Time Series Forecasting**|Xiaobin Hong et.al.|[2503.01157](http://arxiv.org/abs/2503.01157)|null|
 |**2025-03-02**|**PINN-MG: A physics-informed neural network for mesh generation**|Min Wang et.al.|[2503.00814](http://arxiv.org/abs/2503.00814)|null|
@@ -2278,7 +2278,7 @@
 |**2025-02-20**|**Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models**|Michihiro Yasunaga et.al.|[2502.14191](http://arxiv.org/abs/2502.14191)|**[link](https://github.com/facebookresearch/multimodal_rewardbench)**|
 |**2025-02-19**|**Smaller But Better: Unifying Layout Generation with Smaller Large Language Models**|Peirong Zhang et.al.|[2502.14005](http://arxiv.org/abs/2502.14005)|**[link](https://github.com/niceringnode/lggpt)**|
 |**2025-02-18**|**Evaluating and Enhancing Out-of-Domain Generalization of Task-Oriented Dialog Systems for Task Completion without Turn-level Dialog Annotations**|Adib Mosharrof et.al.|[2502.13310](http://arxiv.org/abs/2502.13310)|null|
-|**2025-02-18**|**Improved Fine-Tuning of Large Multimodal Models for Hateful Meme Detection**|Jingbiao Mei et.al.|[2502.13061](http://arxiv.org/abs/2502.13061)|null|
+|**2025-02-18**|**Improved Fine-Tuning of Large Multimodal Models for Hateful Meme Detection**|Jingbiao Mei et.al.|[2502.13061](http://arxiv.org/abs/2502.13061)|**[link](https://github.com/JingbiaoMei/RGCL)**|
 |**2025-02-17**|**Can Language Models Learn Typologically Implausible Languages?**|Tianyang Xu et.al.|[2502.12317](http://arxiv.org/abs/2502.12317)|null|
 |**2025-02-15**|**GeneralizeFormer: Layer-Adaptive Model Generation across Test-Time Distribution Shifts**|Sameer Ambekar et.al.|[2502.12195](http://arxiv.org/abs/2502.12195)|**[link](https://github.com/ambekarsameer96/generalizeformer)**|
 |**2025-02-17**|**Control-CLIP: Decoupling Category and Style Guidance in CLIP for Specific-Domain Generation**|Zexi Jia et.al.|[2502.11532](http://arxiv.org/abs/2502.11532)|null|
@@ -2545,7 +2545,7 @@
 |**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
 |**2025-05-30**|**GenSpace: Benchmarking Spatially-Aware Image Generation**|Zehan Wang et.al.|[2505.24870](http://arxiv.org/abs/2505.24870)|null|
 |**2025-05-30**|**Time Blindness: Why Video-Language Models Can't See What Humans Can?**|Ujjwal Upadhyay et.al.|[2505.24867](http://arxiv.org/abs/2505.24867)|null|
-|**2025-05-30**|**Conformal Prediction for Zero-Shot Models**|Julio Silva-Rodríguez et.al.|[2505.24693](http://arxiv.org/abs/2505.24693)|null|
+|**2025-05-30**|**Conformal Prediction for Zero-Shot Models**|Julio Silva-Rodríguez et.al.|[2505.24693](http://arxiv.org/abs/2505.24693)|**[link](https://github.com/jusiro/clip-conformal)**|
 |**2025-05-30**|**BIMA: Bijective Maximum Likelihood Learning Approach to Hallucination Prediction and Mitigation in Large Vision-Language Models**|Huu-Thien Tran et.al.|[2505.24649](http://arxiv.org/abs/2505.24649)|null|
 |**2025-05-30**|**SARD: A Large-Scale Synthetic Arabic OCR Dataset for Book-Style Text Recognition**|Omer Nacar et.al.|[2505.24600](http://arxiv.org/abs/2505.24600)|null|
 |**2025-05-30**|**AMIA: Automatic Masking and Joint Intention Analysis Makes LVLMs Robust Jailbreak Defenders**|Yuqi Zhang et.al.|[2505.24519](http://arxiv.org/abs/2505.24519)|null|
@@ -2566,8 +2566,8 @@
 |**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745](http://arxiv.org/abs/2505.23745)|**[link](https://github.com/epfl-imos/trustvlm)**|
 |**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Ronghuan Wu et.al.|[2505.23740](http://arxiv.org/abs/2505.23740)|null|
 |**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Danny Driess et.al.|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
-|**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Gabriel Sarch et.al.|[2505.23678](http://arxiv.org/abs/2505.23678)|null|
-|**2025-05-29**|**Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition**|Yu Li et.al.|[2505.23566](http://arxiv.org/abs/2505.23566)|null|
+|**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Gabriel Sarch et.al.|[2505.23678](http://arxiv.org/abs/2505.23678)|**[link](https://github.com/hiyouga/easyr1)**|
+|**2025-05-29**|**Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition**|Yu Li et.al.|[2505.23566](http://arxiv.org/abs/2505.23566)|**[link](https://github.com/bflameswift/uni-mumer)**|
 |**2025-05-30**|**Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information**|Xu Chu et.al.|[2505.23558](http://arxiv.org/abs/2505.23558)|**[link](https://github.com/liar406/look_again)**|
 |**2025-05-29**|**TRAP: Targeted Redirecting of Agentic Preferences**|Hangoo Kang et.al.|[2505.23518](http://arxiv.org/abs/2505.23518)|null|
 |**2025-05-29**|**VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation**|Shi-Xue Zhang et.al.|[2505.23484](http://arxiv.org/abs/2505.23484)|**[link](https://github.com/gxym/vcapsbench)**|
@@ -2598,7 +2598,7 @@
 |**2025-05-28**|**Seeing the Threat: Vulnerabilities in Vision-Language Models to Adversarial Attack**|Juan Ren et.al.|[2505.21967](http://arxiv.org/abs/2505.21967)|null|
 |**2025-05-28**|**Towards Comprehensive Scene Understanding: Integrating First and Third-Person Views for LVLMs**|Insu Lee et.al.|[2505.21955](http://arxiv.org/abs/2505.21955)|null|
 |**2025-05-28**|**Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Zhongyi Zhou et.al.|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
-|**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|null|
+|**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|**[link](https://github.com/dosowiechi/mlmp)**|
 |**2025-05-27**|**MMTBENCH: A Unified Benchmark for Complex Multimodal Table Reasoning**|Prasham Yatinkumar Titiya et.al.|[2505.21771](http://arxiv.org/abs/2505.21771)|null|
 |**2025-05-27**|**MedBridge: Bridging Foundation Vision-Language Models to Medical Image Diagnosis**|Yitong Li et.al.|[2505.21698](http://arxiv.org/abs/2505.21698)|null|
 |**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500](http://arxiv.org/abs/2505.21500)|null|
@@ -2776,7 +2776,7 @@
 |**2025-05-12**|**Position: Restructuring of Categories and Implementation of Guidelines Essential for VLM Adoption in Healthcare**|Amara Tariq et.al.|[2505.08818](http://arxiv.org/abs/2505.08818)|null|
 |**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|**[link](https://github.com/zc-zhao/drivemonkey)**|
 |**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Zhaochen Su et.al.|[2505.08617](http://arxiv.org/abs/2505.08617)|**[link](https://github.com/zhaochen0110/openthinkimg)**|
-|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
+|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548](http://arxiv.org/abs/2505.08548)|**[link](https://github.com/pickxiguapi/embodied-fsd)**|
 |**2025-05-13**|**Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?**|Md Tahmid Rahman Laskar et.al.|[2505.08468](http://arxiv.org/abs/2505.08468)|**[link](https://github.com/tahmedge/chart_lvlm_judge)**|
 |**2025-05-13**|**MA-ROESL: Motion-aware Rapid Reward Optimization for Efficient Robot Skill Learning from Single Videos**|Xianghui Wang et.al.|[2505.08367](http://arxiv.org/abs/2505.08367)|null|
 |**2025-05-13**|**Removing Watermarks with Partial Regeneration using Semantic Information**|Krti Tallam et.al.|[2505.08234](http://arxiv.org/abs/2505.08234)|**[link](https://github.com/krtit/semanticregen)**|
@@ -3530,7 +3530,7 @@
 |**2025-02-14**|**Probing Perceptual Constancy in Large Vision Language Models**|Haoran Sun et.al.|[2502.10273](http://arxiv.org/abs/2502.10273)|null|
 |**2025-02-14**|**VisCon-100K: Leveraging Contextual Web Data for Fine-tuning Vision Language Models**|Gokul Karthik Kumar et.al.|[2502.10250](http://arxiv.org/abs/2502.10250)|null|
 |**2025-02-14**|**Cooperative Multi-Agent Planning with Adaptive Skill Synthesis**|Zhiyuan Li et.al.|[2502.10148](http://arxiv.org/abs/2502.10148)|null|
-|**2025-02-14**|**Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models**|Chenrui Tie et.al.|[2502.10090](http://arxiv.org/abs/2502.10090)|null|
+|**2025-02-14**|**Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models**|Chenrui Tie et.al.|[2502.10090](http://arxiv.org/abs/2502.10090)|**[link](https://github.com/owensun2004/Manual2Skill)**|
 |**2025-02-14**|**ViRAC: A Vision-Reasoning Agent Head Movement Control Framework in Arbitrary Virtual Environments**|Juyeong Hwang et.al.|[2502.10046](http://arxiv.org/abs/2502.10046)|null|
 |**2025-02-14**|**Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation**|Shichao Fan et.al.|[2502.10040](http://arxiv.org/abs/2502.10040)|null|
 |**2025-02-14**|**HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation**|Tianwei Lin et.al.|[2502.09838](http://arxiv.org/abs/2502.09838)|**[link](https://github.com/dcdmllm/healthgpt)**|
@@ -4997,10 +4997,10 @@
 |**2025-05-27**|**A Bayesian approach to the survivor average causal effect in cluster-randomized crossover trials**|Dane Isenberg et.al.|[2505.21447](http://arxiv.org/abs/2505.21447)|null|
 |**2025-05-27**|**Debiased Ill-Posed Regression**|AmirEmad Ghassami et.al.|[2505.20787](http://arxiv.org/abs/2505.20787)|null|
 |**2025-05-27**|**Causal inference with dyadic data in randomized experiments**|Yilin Li et.al.|[2505.20780](http://arxiv.org/abs/2505.20780)|null|
-|**2025-05-27**|**Generating Hypotheses of Dynamic Causal Graphs in Neuroscience: Leveraging Generative Factor Models of Observed Time Series**|Zachary C. Brown et.al.|[2505.20697](http://arxiv.org/abs/2505.20697)|null|
+|**2025-05-27**|**Generating Hypotheses of Dynamic Causal Graphs in Neuroscience: Leveraging Generative Factor Models of Observed Time Series**|Zachary C. Brown et.al.|[2505.20697](http://arxiv.org/abs/2505.20697)|**[link](https://github.com/carlson-lab/redcliff-s-hypothesizing-dynamic-causal-graphs)**|
 |**2025-05-28**|**Causality and "In-the-Wild" Video-Based Person Re-ID: A Survey**|Md Rashidunnabi et.al.|[2505.20540](http://arxiv.org/abs/2505.20540)|null|
 |**2025-05-26**|**Differentially private ratio statistics**|Tomer Shoham et.al.|[2505.20351](http://arxiv.org/abs/2505.20351)|null|
-|**2025-05-23**|**BiomedSQL: Text-to-SQL for Scientific Reasoning on Biomedical Knowledge Bases**|Mathew J. Koretsky et.al.|[2505.20321](http://arxiv.org/abs/2505.20321)|null|
+|**2025-05-23**|**BiomedSQL: Text-to-SQL for Scientific Reasoning on Biomedical Knowledge Bases**|Mathew J. Koretsky et.al.|[2505.20321](http://arxiv.org/abs/2505.20321)|**[link](https://github.com/nih-card/biomedsql)**|
 |**2025-05-26**|**Causal Meta-Analysis: Rethinking the Foundations of Evidence-Based Medicine**|Clément Berenfeld et.al.|[2505.20168](http://arxiv.org/abs/2505.20168)|null|
 |**2025-05-26**|**Agentic AI Process Observability: Discovering Behavioral Variability**|Fabiana Fournier et.al.|[2505.20127](http://arxiv.org/abs/2505.20127)|null|
 |**2025-05-26**|**Causal Bayesian Networks for Data-driven Safety Analysis of Complex Systems**|Roman Gansch et.al.|[2505.19860](http://arxiv.org/abs/2505.19860)|null|
@@ -5016,7 +5016,7 @@
 |**2025-05-23**|**Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach**|Yuting Huang et.al.|[2505.17637](http://arxiv.org/abs/2505.17637)|null|
 |**2025-05-22**|**Learning Probabilities of Causation from Finite Population Data**|Shuai Wang et.al.|[2505.17133](http://arxiv.org/abs/2505.17133)|null|
 |**2025-05-22**|**Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine**|Adib Bazgir et.al.|[2505.16982](http://arxiv.org/abs/2505.16982)|null|
-|**2025-05-22**|**On the Out-of-Distribution Generalization of Self-Supervised Learning**|Wenwen Qiang et.al.|[2505.16675](http://arxiv.org/abs/2505.16675)|null|
+|**2025-05-22**|**On the Out-of-Distribution Generalization of Self-Supervised Learning**|Wenwen Qiang et.al.|[2505.16675](http://arxiv.org/abs/2505.16675)|**[link](https://github.com/ml-tasa/pid-ssl)**|
 |**2025-05-22**|**Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding**|Feilong Tang et.al.|[2505.16652](http://arxiv.org/abs/2505.16652)|null|
 |**2025-05-22**|**CausalDynamics: A large-scale benchmark for structural discovery of dynamical causal models**|Benjamin Herdeanu et.al.|[2505.16620](http://arxiv.org/abs/2505.16620)|**[link](https://github.com/kausable/causaldynamics)**|
 |**2025-05-22**|**Causal-Invariant Cross-Domain Out-of-Distribution Recommendation**|Jiajie Zhu et.al.|[2505.16532](http://arxiv.org/abs/2505.16532)|null|
