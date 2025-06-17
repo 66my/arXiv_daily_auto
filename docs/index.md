@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -1362,8 +1362,8 @@ layout: default
 |**2025-06-13**|**Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation**|Tung-Long Vuong et.al.|[2506.11493](http://arxiv.org/abs/2506.11493)|null|
 |**2025-06-12**|**MUDAS: Mote-scale Unsupervised Domain Adaptation in Multi-label Sound Classification**|Jihoon Yun et.al.|[2506.11331](http://arxiv.org/abs/2506.11331)|null|
 |**2025-06-12**|**Teaching in adverse scenes: a statistically feedback-driven threshold and mask adjustment teacher-student framework for object detection in UAV images under adverse scenes**|Hongyu Chen et.al.|[2506.11175](http://arxiv.org/abs/2506.11175)|null|
-|**2025-06-12**|**BioClinical ModernBERT: A State-of-the-Art Long-Context Encoder for Biomedical and Clinical NLP**|Thomas Sounack et.al.|[2506.10896](http://arxiv.org/abs/2506.10896)|null|
-|**2025-06-12**|**Evaluating Large Language Models on Non-Code Software Engineering Tasks**|Fabian C. Peña et.al.|[2506.10833](http://arxiv.org/abs/2506.10833)|null|
+|**2025-06-12**|**BioClinical ModernBERT: A State-of-the-Art Long-Context Encoder for Biomedical and Clinical NLP**|Thomas Sounack et.al.|[2506.10896](http://arxiv.org/abs/2506.10896)|**[link](https://github.com/lindvalllab/bioclinical-modernbert)**|
+|**2025-06-12**|**Evaluating Large Language Models on Non-Code Software Engineering Tasks**|Fabian C. Peña et.al.|[2506.10833](http://arxiv.org/abs/2506.10833)|**[link](https://github.com/aieng-lab/senlp-benchmark)**|
 |**2025-06-12**|**Flick: Few Labels Text Classification using K-Aware Intermediate Learning in Multi-Task Low-Resource Languages**|Ali Almutairi et.al.|[2506.10292](http://arxiv.org/abs/2506.10292)|null|
 |**2025-06-11**|**RoCA: Robust Cross-Domain End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2506.10145](http://arxiv.org/abs/2506.10145)|null|
 |**2025-06-11**|**Enhancing Human-Robot Collaboration: A Sim2Real Domain Adaptation Algorithm for Point Cloud Segmentation in Industrial Environments**|Fatemeh Mohammadi Amin et.al.|[2506.09552](http://arxiv.org/abs/2506.09552)|null|
@@ -1371,7 +1371,7 @@ layout: default
 |**2025-06-11**|**SRPL-SFDA: SAM-Guided Reliable Pseudo-Labels for Source-Free Domain Adaptation in Medical Image Segmentation**|Xinya Liu et.al.|[2506.09403](http://arxiv.org/abs/2506.09403)|**[link](https://github.com/hilab-git/srpl-sfda)**|
 |**2025-06-10**|**PlantBert: An Open Source Language Model for Plant Science**|Hiba Khey et.al.|[2506.08897](http://arxiv.org/abs/2506.08897)|null|
 |**2025-06-11**|**Adapting Vision-Language Foundation Model for Next Generation Medical Ultrasound Image Analysis**|Jingguo Qu et.al.|[2506.08849](http://arxiv.org/abs/2506.08849)|**[link](https://github.com/jinggqu/nextgen-uia)**|
-|**2025-06-10**|**Integration of Old and New Knowledge for Generalized Intent Discovery: A Consistency-driven Prototype-Prompting Framework**|Xiao Wei et.al.|[2506.08490](http://arxiv.org/abs/2506.08490)|null|
+|**2025-06-10**|**Integration of Old and New Knowledge for Generalized Intent Discovery: A Consistency-driven Prototype-Prompting Framework**|Xiao Wei et.al.|[2506.08490](http://arxiv.org/abs/2506.08490)|**[link](https://github.com/smileix/cpp)**|
 |**2025-06-11**|**Low-resource domain adaptation while minimizing energy and hardware resource consumption**|Hernán Maina et.al.|[2506.08433](http://arxiv.org/abs/2506.08433)|null|
 |**2025-06-09**|**Clustered Federated Learning via Embedding Distributions**|Dekai Zhang et.al.|[2506.07769](http://arxiv.org/abs/2506.07769)|**[link](https://github.com/dkaizhang/emdcfl)**|
 |**2025-06-09**|**Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping**|Nitin Sharma et.al.|[2506.07658](http://arxiv.org/abs/2506.07658)|null|
@@ -2163,11 +2163,11 @@ layout: default
 |**2025-06-10**|**FEDTAIL: Federated Long-Tailed Domain Generalization with Sharpness-Guided Gradient Matching**|Sunny Gupta et.al.|[2506.08518](http://arxiv.org/abs/2506.08518)|null|
 |**2025-06-09**|**Dealing with the Evil Twins: Improving Random Augmentation by Addressing Catastrophic Forgetting of Diverse Augmentations**|Dongkyu Cho et.al.|[2506.08240](http://arxiv.org/abs/2506.08240)|null|
 |**2025-06-12**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|**[link](https://github.com/yunfeixie233/vigal)**|
-|**2025-06-09**|**SurgBench: A Unified Large-Scale Benchmark for Surgical Video Analysis**|Jianhui Wei et.al.|[2506.07603](http://arxiv.org/abs/2506.07603)|null|
-|**2025-06-09**|**Premise Selection for a Lean Hammer**|Thomas Zhu et.al.|[2506.07477](http://arxiv.org/abs/2506.07477)|null|
+|**2025-06-16**|**SurgBench: A Unified Large-Scale Benchmark for Surgical Video Analysis**|Jianhui Wei et.al.|[2506.07603](http://arxiv.org/abs/2506.07603)|null|
+|**2025-06-09**|**Premise Selection for a Lean Hammer**|Thomas Zhu et.al.|[2506.07477](http://arxiv.org/abs/2506.07477)|**[link](https://github.com/joshclune/leanhammer)**|
 |**2025-06-09**|**Moment Alignment: Unifying Gradient and Hessian Matching for Domain Generalization**|Yuen Chen et.al.|[2506.07378](http://arxiv.org/abs/2506.07378)|null|
 |**2025-06-08**|**UdonCare: Hierarchy Pruning for Unseen Domain Discovery in Predictive Healthcare**|Pengfei Hu et.al.|[2506.06977](http://arxiv.org/abs/2506.06977)|null|
-|**2025-06-07**|**Generalized Trajectory Scoring for End-to-end Multimodal Planning**|Zhenxin Li et.al.|[2506.06664](http://arxiv.org/abs/2506.06664)|null|
+|**2025-06-07**|**Generalized Trajectory Scoring for End-to-end Multimodal Planning**|Zhenxin Li et.al.|[2506.06664](http://arxiv.org/abs/2506.06664)|**[link](https://github.com/nvlabs/gtrs)**|
 |**2025-06-06**|**On Inverse Problems, Parameter Estimation, and Domain Generalization**|Deborah Pereg et.al.|[2506.06024](http://arxiv.org/abs/2506.06024)|null|
 |**2025-06-05**|**UniPTMs: The First Unified Multi-type PTM Site Prediction Model via Master-Slave Architecture-Based Multi-Stage Fusion Strategy and Hierarchical Contrastive Loss**|Yiyu Lin et.al.|[2506.05443](http://arxiv.org/abs/2506.05443)|null|
 |**2025-06-05**|**Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing**|Declan A. Norton et.al.|[2506.05292](http://arxiv.org/abs/2506.05292)|**[link](https://github.com/nortondeclan/learning_beyond_experience)**|
@@ -2587,10 +2587,10 @@ layout: default
 |**2025-06-13**|**Taming Stable Diffusion for Computed Tomography Blind Super-Resolution**|Chunlei Li et.al.|[2506.11496](http://arxiv.org/abs/2506.11496)|null|
 |**2025-06-13**|**On the Natural Robustness of Vision-Language Models Against Visual Perception Attacks in Autonomous Driving**|Pedram MohajerAnsari et.al.|[2506.11472](http://arxiv.org/abs/2506.11472)|null|
 |**2025-06-12**|**Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving**|Luke Rowe et.al.|[2506.11234](http://arxiv.org/abs/2506.11234)|null|
-|**2025-06-12**|**AIR: Zero-shot Generative Model Adaptation with Iterative Refinement**|Guimeng Liu et.al.|[2506.10895](http://arxiv.org/abs/2506.10895)|null|
+|**2025-06-12**|**AIR: Zero-shot Generative Model Adaptation with Iterative Refinement**|Guimeng Liu et.al.|[2506.10895](http://arxiv.org/abs/2506.10895)|**[link](https://github.com/guimeng-leo-liu/air)**|
 |**2025-06-13**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Wenxuan Song et.al.|[2506.10826](http://arxiv.org/abs/2506.10826)|null|
 |**2025-06-12**|**Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding**|Yuhang Zhang et.al.|[2506.10756](http://arxiv.org/abs/2506.10756)|null|
-|**2025-06-13**|**IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain**|Hong Huang et.al.|[2506.10730](http://arxiv.org/abs/2506.10730)|null|
+|**2025-06-13**|**IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain**|Hong Huang et.al.|[2506.10730](http://arxiv.org/abs/2506.10730)|**[link](https://github.com/hongh0/iqe-clip)**|
 |**2025-06-12**|**GigaVideo-1: Advancing Video Generation via Automatic Feedback with 4 GPU-Hours Fine-Tuning**|Xiaoyi Bao et.al.|[2506.10639](http://arxiv.org/abs/2506.10639)|null|
 |**2025-06-12**|**Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning**|Chun-Mei Feng et.al.|[2506.10575](http://arxiv.org/abs/2506.10575)|null|
 |**2025-06-12**|**LLMs Are Not Yet Ready for Deepfake Image Detection**|Shahroz Tariq et.al.|[2506.10474](http://arxiv.org/abs/2506.10474)|null|
@@ -4733,7 +4733,7 @@ layout: default
 |**2025-05-31**|**MINT: Memory-Infused Prompt Tuning at Test-time for CLIP**|Jiaming Yi et.al.|[2506.03190](http://arxiv.org/abs/2506.03190)|null|
 |**2025-06-03**|**Random Registers for Cross-Domain Few-Shot Learning**|Shuai Yi et.al.|[2506.02843](http://arxiv.org/abs/2506.02843)|null|
 |**2025-06-03**|**Prompt-Unseen-Emotion: Zero-shot Expressive Speech Synthesis with Prompt-LLM Contextual Knowledge for Mixed Emotions**|Xiaoxue Gao et.al.|[2506.02742](http://arxiv.org/abs/2506.02742)|null|
-|**2025-05-31**|**A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder**|Xinxu Wei et.al.|[2506.02044](http://arxiv.org/abs/2506.02044)|null|
+|**2025-05-31**|**A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder**|Xinxu Wei et.al.|[2506.02044](http://arxiv.org/abs/2506.02044)|**[link](https://github.com/weixinxu666/braingfm)**|
 |**2025-06-02**|**Active Learning via Vision-Language Model Adaptation with Open Data**|Tong Wang et.al.|[2506.01724](http://arxiv.org/abs/2506.01724)|null|
 |**2025-05-31**|**ORAN-GUIDE: RAG-Driven Prompt Learning for LLM-Augmented Reinforcement Learning in O-RAN Network Slicing**|Fatemeh Lotfi et.al.|[2506.00576](http://arxiv.org/abs/2506.00576)|null|
 |**2025-05-31**|**Prompt-Tuned LLM-Augmented DRL for Dynamic O-RAN Network Slicing**|Fatemeh Lotfi et.al.|[2506.00574](http://arxiv.org/abs/2506.00574)|null|
@@ -5158,7 +5158,7 @@ layout: default
 |**2025-06-11**|**Mitigating Spurious Correlations in LLMs via Causality-Aware Post-Training**|Shurui Gui et.al.|[2506.09433](http://arxiv.org/abs/2506.09433)|null|
 |**2025-06-10**|**Longitudinal weighted and trimmed treatment effects with flip interventions**|Alec McClean et.al.|[2506.09188](http://arxiv.org/abs/2506.09188)|null|
 |**2025-06-10**|**Revolutionizing Clinical Trials: A Manifesto for AI-Driven Transformation**|Mihaela van der Schaar et.al.|[2506.09102](http://arxiv.org/abs/2506.09102)|null|
-|**2025-06-10**|**Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery**|Yuni Susanti et.al.|[2506.08771](http://arxiv.org/abs/2506.08771)|null|
+|**2025-06-10**|**Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery**|Yuni Susanti et.al.|[2506.08771](http://arxiv.org/abs/2506.08771)|**[link](https://github.com/susantiyuni/path-to-causality)**|
 |**2025-06-09**|**CausalPFN: Amortized Causal Effect Estimation via In-Context Learning**|Vahid Balazadeh et.al.|[2506.07918](http://arxiv.org/abs/2506.07918)|**[link](https://github.com/vdblm/CausalPFN)**|
 |**2025-06-09**|**Diffusion Counterfactual Generation with Semantic Abduction**|Rajat Rasal et.al.|[2506.07883](http://arxiv.org/abs/2506.07883)|**[link](https://github.com/rajatrasal/diffusion-counterfactuals)**|
 |**2025-06-09**|**Conditional Local Independence Testing with Application to Dynamic Causal Discovery**|Mingzhou Liu et.al.|[2506.07844](http://arxiv.org/abs/2506.07844)|null|
