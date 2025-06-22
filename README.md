@@ -1,4 +1,4 @@
-## Updated on 2025.06.21
+## Updated on 2025.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1388,7 +1388,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|**[link](https://github.com/vineet2104/hifics)**|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
 
 ## DA
 
@@ -1399,14 +1399,14 @@
 |**2025-06-17**|**M3SD: Multi-modal, Multi-scenario and Multi-language Speaker Diarization Dataset**|Shilong Wu et.al.|[2506.14427](http://arxiv.org/abs/2506.14427)|null|
 |**2025-06-17**|**One-Shot Neural Architecture Search with Network Similarity Directed Initialization for Pathological Image Classification**|Renao Yan et.al.|[2506.14176](http://arxiv.org/abs/2506.14176)|null|
 |**2025-06-17**|**Collaborative Editable Model**|Kaiwen Tang et.al.|[2506.14146](http://arxiv.org/abs/2506.14146)|null|
-|**2025-06-12**|**BotTrans: A Multi-Source Graph Domain Adaptation Approach for Social Bot Detection**|Boshen Shi et.al.|[2506.13795](http://arxiv.org/abs/2506.13795)|null|
+|**2025-06-12**|**BotTrans: A Multi-Source Graph Domain Adaptation Approach for Social Bot Detection**|Boshen Shi et.al.|[2506.13795](http://arxiv.org/abs/2506.13795)|**[link](https://github.com/skyorca/bottrans)**|
 |**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722](http://arxiv.org/abs/2506.13722)|null|
 |**2025-06-17**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
 |**2025-06-16**|**BUT System for the MLC-SLM Challenge**|Alexander Polok et.al.|[2506.13414](http://arxiv.org/abs/2506.13414)|null|
 |**2025-06-14**|**Konooz: Multi-domain Multi-dialect Corpus for Named Entity Recognition**|Nagham Hamad et.al.|[2506.12615](http://arxiv.org/abs/2506.12615)|null|
-|**2025-06-14**|**Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching**|Hyeonseo Lee et.al.|[2506.12413](http://arxiv.org/abs/2506.12413)|null|
+|**2025-06-14**|**Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching**|Hyeonseo Lee et.al.|[2506.12413](http://arxiv.org/abs/2506.12413)|**[link](https://github.com/perceptualai-lab/awesome-domain-generalizable-person-re-id)**|
 |**2025-06-14**|**Cross-Domain Conditional Diffusion Models for Time Series Imputation**|Kexin Zhang et.al.|[2506.12412](http://arxiv.org/abs/2506.12412)|null|
-|**2025-06-13**|**SIMSHIFT: A Benchmark for Adapting Neural Surrogates to Distribution Shifts**|Paul Setinek et.al.|[2506.12007](http://arxiv.org/abs/2506.12007)|null|
+|**2025-06-13**|**SIMSHIFT: A Benchmark for Adapting Neural Surrogates to Distribution Shifts**|Paul Setinek et.al.|[2506.12007](http://arxiv.org/abs/2506.12007)|**[link](https://github.com/psetinek/simshift)**|
 |**2025-06-13**|**crossMoDA Challenge: Evolution of Cross-Modality Domain Adaptation Techniques for Vestibular Schwannoma and Cochlea Segmentation from 2021 to 2023**|Navodini Wijethilake et.al.|[2506.12006](http://arxiv.org/abs/2506.12006)|null|
 |**2025-06-13**|**Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation**|Tung-Long Vuong et.al.|[2506.11493](http://arxiv.org/abs/2506.11493)|null|
 |**2025-06-12**|**MUDAS: Mote-scale Unsupervised Domain Adaptation in Multi-label Sound Classification**|Jihoon Yun et.al.|[2506.11331](http://arxiv.org/abs/2506.11331)|null|
@@ -2197,7 +2197,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
 
 ## DG
 
@@ -2205,7 +2205,7 @@
 |---|---|---|---|---|
 |**2025-06-18**|**ProtoReasoning: Prototypes as the Foundation for Generalizable Reasoning in LLMs**|Feng He et.al.|[2506.15211](http://arxiv.org/abs/2506.15211)|null|
 |**2025-06-14**|**OneEval: Benchmarking LLM Knowledge-intensive Reasoning over Diverse Knowledge Bases**|Yongrui Chen et.al.|[2506.12577](http://arxiv.org/abs/2506.12577)|null|
-|**2025-06-14**|**Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching**|Hyeonseo Lee et.al.|[2506.12413](http://arxiv.org/abs/2506.12413)|null|
+|**2025-06-14**|**Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching**|Hyeonseo Lee et.al.|[2506.12413](http://arxiv.org/abs/2506.12413)|**[link](https://github.com/perceptualai-lab/awesome-domain-generalizable-person-re-id)**|
 |**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Junha Lee et.al.|[2506.12009](http://arxiv.org/abs/2506.12009)|null|
 |**2025-06-12**|**ConStyX: Content Style Augmentation for Generalizable Medical Image Segmentation**|Xi Chen et.al.|[2506.10675](http://arxiv.org/abs/2506.10675)|null|
 |**2025-06-17**|**RoCA: Robust Cross-Domain End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2506.10145](http://arxiv.org/abs/2506.10145)|null|
@@ -2626,7 +2626,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
 
 ## VLM
 
@@ -2635,15 +2635,15 @@
 |**2025-06-18**|**GenRecal: Generation after Recalibration from Large to Small Vision-Language Models**|Byung-Kwan Lee et.al.|[2506.15681](http://arxiv.org/abs/2506.15681)|null|
 |**2025-06-18**|**Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning**|Ankan Deria et.al.|[2506.15649](http://arxiv.org/abs/2506.15649)|null|
 |**2025-06-18**|**FindingDory: A Benchmark to Evaluate Memory in Embodied Agents**|Karmesh Yadav et.al.|[2506.15635](http://arxiv.org/abs/2506.15635)|null|
-|**2025-06-18**|**WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts**|Negar Foroutan et.al.|[2506.15594](http://arxiv.org/abs/2506.15594)|null|
-|**2025-06-18**|**DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement**|Shaoqing Lin et.al.|[2506.15583](http://arxiv.org/abs/2506.15583)|null|
-|**2025-06-18**|**Context-Informed Grounding Supervision**|Hyunji Lee et.al.|[2506.15480](http://arxiv.org/abs/2506.15480)|null|
+|**2025-06-18**|**WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts**|Negar Foroutan et.al.|[2506.15594](http://arxiv.org/abs/2506.15594)|**[link](https://github.com/negar-foroutan/wikimixqa)**|
+|**2025-06-18**|**DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement**|Shaoqing Lin et.al.|[2506.15583](http://arxiv.org/abs/2506.15583)|**[link](https://github.com/shaoqlin/discosg)**|
+|**2025-06-18**|**Context-Informed Grounding Supervision**|Hyunji Lee et.al.|[2506.15480](http://arxiv.org/abs/2506.15480)|**[link](https://github.com/kaistai/cings)**|
 |**2025-06-18**|**OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models**|Lanfeng Zhong et.al.|[2506.15318](http://arxiv.org/abs/2506.15318)|null|
 |**2025-06-18**|**MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering**|Xinqi Fan et.al.|[2506.15298](http://arxiv.org/abs/2506.15298)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
 |**2025-06-18**|**DyNaVLM: Zero-Shot Vision-Language Navigation System with Dynamic Viewpoints and Self-Refining Graph Memory**|Zihe Ji et.al.|[2506.15096](http://arxiv.org/abs/2506.15096)|null|
-|**2025-06-18**|**An Empirical Study of Bugs in Data Visualization Libraries**|Weiqi Lu et.al.|[2506.15084](http://arxiv.org/abs/2506.15084)|null|
-|**2025-06-17**|**PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning**|Yizhen Zhang et.al.|[2506.14907](http://arxiv.org/abs/2506.14907)|null|
+|**2025-06-18**|**An Empirical Study of Bugs in Data Visualization Libraries**|Weiqi Lu et.al.|[2506.15084](http://arxiv.org/abs/2506.15084)|**[link](https://github.com/williamlus/dataviz-lib-bugs)**|
+|**2025-06-17**|**PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning**|Yizhen Zhang et.al.|[2506.14907](http://arxiv.org/abs/2506.14907)|**[link](https://github.com/alchemistyzz/perl)**|
 |**2025-06-17**|**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**|Chunru Lin et.al.|[2506.14763](http://arxiv.org/abs/2506.14763)|null|
 |**2025-06-17**|**Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models**|Huihan Liu et.al.|[2506.14727](http://arxiv.org/abs/2506.14727)|null|
 |**2025-06-17**|**AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions**|Aishan Liu et.al.|[2506.14697](http://arxiv.org/abs/2506.14697)|null|
@@ -4815,14 +4815,14 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
 
 ## Prompt
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-18**|**Multimodal Large Language Models for Medical Report Generation via Customized Prompt Tuning**|Chunlei Li et.al.|[2506.15477](http://arxiv.org/abs/2506.15477)|null|
-|**2025-06-17**|**FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt Learning**|Ganyu Wang et.al.|[2506.14929](http://arxiv.org/abs/2506.14929)|null|
+|**2025-06-17**|**FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt Learning**|Ganyu Wang et.al.|[2506.14929](http://arxiv.org/abs/2506.14929)|**[link](https://github.com/ganyuwang/fedone-bdpl)**|
 |**2025-06-17**|**Winter Soldier: Backdooring Language Models at Pre-Training with Indirect Data Poisoning**|Wassim Bouaziz et.al.|[2506.14913](http://arxiv.org/abs/2506.14913)|null|
 |**2025-06-16**|**MorphSAM: Learning the Morphological Prompts from Atlases for Spine Image Segmentation**|Dingwei Fan et.al.|[2506.13094](http://arxiv.org/abs/2506.13094)|null|
 |**2025-06-16**|**PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue**|George Shaikovski et.al.|[2506.13063](http://arxiv.org/abs/2506.13063)|null|
@@ -5252,7 +5252,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -6101,7 +6101,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
 
 ## Adversarial
 
@@ -6706,5 +6706,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
 
