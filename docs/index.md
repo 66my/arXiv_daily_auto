@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -2276,13 +2276,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-27**|**Exploring Task-Solving Paradigm for Generalized Cross-Domain Face Anti-Spoofing via Reinforcement Fine-Tuning**|Fangling Jiang et.al.|[2506.21895](http://arxiv.org/abs/2506.21895)|null|
 |**2025-06-25**|**IRanker: Towards Ranking Foundation Model**|Tao Feng et.al.|[2506.21638](http://arxiv.org/abs/2506.21638)|null|
-|**2025-06-26**|**Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability**|Boyong He et.al.|[2506.21042](http://arxiv.org/abs/2506.21042)|null|
+|**2025-06-28**|**Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability**|Boyong He et.al.|[2506.21042](http://arxiv.org/abs/2506.21042)|null|
 |**2025-06-25**|**FixCLR: Negative-Class Contrastive Learning for Semi-Supervised Domain Generalization**|Ha Min Son et.al.|[2506.20841](http://arxiv.org/abs/2506.20841)|null|
 |**2025-06-25**|**A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools**|Minh-Hao Van et.al.|[2506.20743](http://arxiv.org/abs/2506.20743)|null|
 |**2025-06-25**|**Exploring Graph-Transformer Out-of-Distribution Generalization Abilities**|Itay Niv et.al.|[2506.20575](http://arxiv.org/abs/2506.20575)|null|
 |**2025-06-22**|**Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction**|Rui An et.al.|[2506.18939](http://arxiv.org/abs/2506.18939)|null|
 |**2025-06-21**|**Rethinking the Role of Operating Conditions for Learning-based Multi-condition Fault Diagnosis**|Pengyu Han et.al.|[2506.17740](http://arxiv.org/abs/2506.17740)|null|
-|**2025-06-21**|**Learning Time-Aware Causal Representation for Model Generalization in Evolving Domains**|Zhuo He et.al.|[2506.17718](http://arxiv.org/abs/2506.17718)|null|
+|**2025-06-28**|**Learning Time-Aware Causal Representation for Model Generalization in Evolving Domains**|Zhuo He et.al.|[2506.17718](http://arxiv.org/abs/2506.17718)|null|
 |**2025-06-21**|**Domain Generalization using Action Sequences for Egocentric Action Recognition**|Amirshayan Nasirimajd et.al.|[2506.17685](http://arxiv.org/abs/2506.17685)|null|
 |**2025-06-20**|**On the Theory of Conditional Feature Alignment for Unsupervised Domain-Adaptive Counting**|Zhuonan Liang et.al.|[2506.17137](http://arxiv.org/abs/2506.17137)|null|
 |**2025-06-20**|**How Many Domains Suffice for Domain Generalization? A Tight Characterization via the Domain Shattering Dimension**|Cynthia Dwork et.al.|[2506.16704](http://arxiv.org/abs/2506.16704)|null|
@@ -5459,7 +5459,7 @@ layout: default
 |**2025-06-26**|**Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?**|Haoang Chi et.al.|[2506.21215](http://arxiv.org/abs/2506.21215)|null|
 |**2025-06-26**|**Lower Bounds on the Size of Markov Equivalence Classes**|Erik Jahn et.al.|[2506.20933](http://arxiv.org/abs/2506.20933)|null|
 |**2025-06-26**|**Causal Inference for Latent Outcomes Learned with Factor Models**|Jenna M. Landy et.al.|[2506.20549](http://arxiv.org/abs/2506.20549)|null|
-|**2025-06-25**|**Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power**|Daniel Molitor et.al.|[2506.20523](http://arxiv.org/abs/2506.20523)|null|
+|**2025-06-29**|**Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power**|Daniel Molitor et.al.|[2506.20523](http://arxiv.org/abs/2506.20523)|null|
 |**2025-06-25**|**The Role of Partisan Culture in Mental Health Language Online**|Sachin R. Pendse et.al.|[2506.20377](http://arxiv.org/abs/2506.20377)|null|
 |**2025-06-25**|**Causal Operator Discovery in Partial Differential Equations via Counterfactual Physics-Informed Neural Networks**|Ronald Katende et.al.|[2506.20181](http://arxiv.org/abs/2506.20181)|null|
 |**2025-06-25**|**Causal discovery in deterministic discrete LTI-DAE systems**|Bala Rajesh Konkathi et.al.|[2506.20169](http://arxiv.org/abs/2506.20169)|null|
