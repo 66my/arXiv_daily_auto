@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -2394,7 +2394,7 @@ layout: default
 |**2025-07-09**|**CDC: Causal Domain Clustering for Multi-Domain Recommendation**|Huishi Luo et.al.|[2507.06877](http://arxiv.org/abs/2507.06877)|null|
 |**2025-07-08**|**Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion**|Aleksandar Jevtić et.al.|[2507.06230](http://arxiv.org/abs/2507.06230)|null|
 |**2025-07-08**|**Prompt-Free Conditional Diffusion for Multi-object Image Augmentation**|Haoyu Wang et.al.|[2507.06146](http://arxiv.org/abs/2507.06146)|null|
-|**2025-07-08**|**Fair Domain Generalization: An Information-Theoretic View**|Tangzheng Lian et.al.|[2507.05823](http://arxiv.org/abs/2507.05823)|null|
+|**2025-07-13**|**Fair Domain Generalization: An Information-Theoretic View**|Tangzheng Lian et.al.|[2507.05823](http://arxiv.org/abs/2507.05823)|null|
 |**2025-07-09**|**Integrated Structural Prompt Learning for Vision-Language Models**|Jiahui Wang et.al.|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
 |**2025-07-08**|**Dynamic Rank Adaptation for Vision-Language Models**|Jiahui Wang et.al.|[2507.05668](http://arxiv.org/abs/2507.05668)|null|
 |**2025-07-07**|**RainShift: A Benchmark for Precipitation Downscaling Across Geographies**|Paula Harder et.al.|[2507.04930](http://arxiv.org/abs/2507.04930)|null|
@@ -6688,7 +6688,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-11**|**Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots**|Yang Zhang et.al.|[2507.08303](http://arxiv.org/abs/2507.08303)|null|
 |**2025-07-11**|**Lightweight Safety Guardrails via Synthetic Data and RL-guided Adversarial Training**|Aleksei Ilin et.al.|[2507.08284](http://arxiv.org/abs/2507.08284)|null|
-|**2025-07-10**|**SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2507.07776](http://arxiv.org/abs/2507.07776)|null|
+|**2025-07-14**|**SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2507.07776](http://arxiv.org/abs/2507.07776)|null|
 |**2025-07-10**|**TRIX- Trading Adversarial Fairness via Mixed Adversarial Training**|Tejaswini Medi et.al.|[2507.07768](http://arxiv.org/abs/2507.07768)|null|
 |**2025-07-10**|**Phishing Detection in the Gen-AI Era: Quantized LLMs vs Classical Models**|Jikesh Thapa et.al.|[2507.07406](http://arxiv.org/abs/2507.07406)|null|
 |**2025-07-09**|**A Single-Point Measurement Framework for Robust Cyber-Attack Diagnosis in Smart Microgrids Using Dual Fractional-Order Feature Analysis**|Yifan Wang et.al.|[2507.06890](http://arxiv.org/abs/2507.06890)|null|
