@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -17,7 +17,7 @@ layout: default
 |**2025-07-13**|**Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling**|Ali Safa et.al.|[2507.09540](http://arxiv.org/abs/2507.09540)|null|
 |**2025-07-13**|**On the Importance of Neural Membrane Potential Leakage for LIDAR-based Robot Obstacle Avoidance using Spiking Neural Networks**|Zainab Ali et.al.|[2507.09538](http://arxiv.org/abs/2507.09538)|null|
 |**2025-07-13**|**SegVec3D: A Method for Vector Embedding of 3D Objects Oriented Towards Robot manipulation**|Zhihan Kang et.al.|[2507.09459](http://arxiv.org/abs/2507.09459)|null|
-|**2025-07-12**|**Learning and Transferring Better with Depth Information in Visual Reinforcement Learning**|Zichun Xu et.al.|[2507.09180](http://arxiv.org/abs/2507.09180)|null|
+|**2025-07-15**|**Learning and Transferring Better with Depth Information in Visual Reinforcement Learning**|Zichun Xu et.al.|[2507.09180](http://arxiv.org/abs/2507.09180)|null|
 |**2025-07-12**|**PRAG: Procedural Action Generator**|Michal Vavrecka et.al.|[2507.09167](http://arxiv.org/abs/2507.09167)|null|
 |**2025-07-12**|**Towards Human-level Dexterity via Robot Learning**|Gagan Khandate et.al.|[2507.09117](http://arxiv.org/abs/2507.09117)|null|
 |**2025-07-11**|**Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**|Thomas T. Zhang et.al.|[2507.09061](http://arxiv.org/abs/2507.09061)|null|
@@ -2414,7 +2414,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-14**|**Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence**|Jiaming Tian et.al.|[2507.10281](http://arxiv.org/abs/2507.10281)|null|
 |**2025-07-14**|**Text-Driven Causal Representation Learning for Source-Free Domain Generalization**|Lihua Zhou et.al.|[2507.09961](http://arxiv.org/abs/2507.09961)|null|
-|**2025-07-14**|**VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains**|Xuzhao Li et.al.|[2507.09884](http://arxiv.org/abs/2507.09884)|null|
+|**2025-07-15**|**VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains**|Xuzhao Li et.al.|[2507.09884](http://arxiv.org/abs/2507.09884)|null|
 |**2025-07-11**|**From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion**|Zhenyu Yu et.al.|[2507.09081](http://arxiv.org/abs/2507.09081)|null|
 |**2025-07-11**|**Single-Domain Generalization for Multimodal Cross-Cancer Prognosis via Dirac Rebalancer and Distribution Entanglement**|Jia-Xuan Jiang et.al.|[2507.08340](http://arxiv.org/abs/2507.08340)|null|
 |**2025-07-10**|**Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation**|Yupu Liang et.al.|[2507.07572](http://arxiv.org/abs/2507.07572)|null|
