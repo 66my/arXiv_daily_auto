@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Evaluating Reinforcement Learning Algorithms for Navigation in Simulated Robotic Quadrupeds: A Comparative Study Inspired by Guide Dog Behaviour**|Emma M. A. Harrison et.al.|[2507.13277](http://arxiv.org/abs/2507.13277)|null|
+|**2025-07-17**|**Generalist Bimanual Manipulation via Foundation Video Diffusion Models**|Yao Feng et.al.|[2507.12898](http://arxiv.org/abs/2507.12898)|null|
+|**2025-07-17**|**DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning**|Rahel Rickenbach et.al.|[2507.12855](http://arxiv.org/abs/2507.12855)|null|
+|**2025-07-17**|**ASC-SW: Atrous strip convolution network with sliding windows for visual-assisted map navigation**|Cheng Liu et.al.|[2507.12744](http://arxiv.org/abs/2507.12744)|null|
+|**2025-07-17**|**Learning to Predict Mobile Robot Stability in Off-Road Environments**|Nathaniel Rose et.al.|[2507.12731](http://arxiv.org/abs/2507.12731)|null|
 |**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-16**|**The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey**|Gaofeng Li et.al.|[2507.11840](http://arxiv.org/abs/2507.11840)|null|
 |**2025-07-15**|**Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification**|Moises Andrade et.al.|[2507.11662](http://arxiv.org/abs/2507.11662)|null|
@@ -1538,6 +1543,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**A Privacy-Preserving Semantic-Segmentation Method Using Domain-Adaptation Technique**|Homare Sueyoshi et.al.|[2507.12730](http://arxiv.org/abs/2507.12730)|null|
 |**2025-07-16**|**SS-DC: Spatial-Spectral Decoupling and Coupling Across Visible-Infrared Gap for Domain Adaptive Object Detection**|Xiwei Zhang et.al.|[2507.12017](http://arxiv.org/abs/2507.12017)|null|
 |**2025-07-16**|**Dual form Complementary Masking for Domain-Adaptive Image Segmentation**|Jiawen Wang et.al.|[2507.12008](http://arxiv.org/abs/2507.12008)|null|
 |**2025-07-15**|**LLM-Augmented Symptom Analysis for Cardiovascular Disease Risk Prediction: A Clinical NLP**|Haowei Yang et.al.|[2507.11052](http://arxiv.org/abs/2507.11052)|null|
@@ -2443,6 +2449,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
+|**2025-07-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Yuqi Peng et.al.|[2507.13089](http://arxiv.org/abs/2507.13089)|null|
+|**2025-07-17**|**Simulate, Refocus and Ensemble: An Attention-Refocusing Scheme for Domain Generalization**|Ziyi Wang et.al.|[2507.12851](http://arxiv.org/abs/2507.12851)|null|
 |**2025-07-16**|**InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing**|Kun-Hsiang Lin et.al.|[2507.12060](http://arxiv.org/abs/2507.12060)|null|
 |**2025-07-16**|**Dual form Complementary Masking for Domain-Adaptive Image Segmentation**|Jiawen Wang et.al.|[2507.12008](http://arxiv.org/abs/2507.12008)|null|
 |**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2507.11969](http://arxiv.org/abs/2507.11969)|null|
@@ -2918,6 +2927,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348](http://arxiv.org/abs/2507.13348)|null|
+|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[2507.13113](http://arxiv.org/abs/2507.13113)|null|
+|**2025-07-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Yuqi Peng et.al.|[2507.13089](http://arxiv.org/abs/2507.13089)|null|
+|**2025-07-17**|**Advancing Complex Wide-Area Scene Understanding with Hierarchical Coresets Selection**|Jingyao Wang et.al.|[2507.13061](http://arxiv.org/abs/2507.13061)|null|
+|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
+|**2025-07-17**|**City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning**|Penglei Sun et.al.|[2507.12795](http://arxiv.org/abs/2507.12795)|null|
+|**2025-07-16**|**VLMgineer: Vision Language Models as Robotic Toolsmiths**|George Jiayuan Gao et.al.|[2507.12644](http://arxiv.org/abs/2507.12644)|null|
+|**2025-07-16**|**NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting**|Kuangshi Ai et.al.|[2507.12621](http://arxiv.org/abs/2507.12621)|null|
+|**2025-07-16**|**MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**|Yuncong Yang et.al.|[2507.12508](http://arxiv.org/abs/2507.12508)|null|
+|**2025-07-16**|**ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**|Yuhang Lu et.al.|[2507.12499](http://arxiv.org/abs/2507.12499)|null|
+|**2025-07-15**|**Spatially Grounded Explanations in Vision Language Models for Document Visual Question Answering**|Maximiliano Hormazábal Lagos et.al.|[2507.12490](http://arxiv.org/abs/2507.12490)|null|
 |**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
 |**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
 |**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
@@ -5358,6 +5378,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Yuqi Peng et.al.|[2507.13089](http://arxiv.org/abs/2507.13089)|null|
 |**2025-07-16**|**MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM**|Tao Chen et.al.|[2507.12232](http://arxiv.org/abs/2507.12232)|null|
 |**2025-07-15**|**Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation**|Sunghyun Park et.al.|[2507.11030](http://arxiv.org/abs/2507.11030)|null|
 |**2025-07-14**|**LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
@@ -5846,6 +5867,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Refining the Notion of No Anticipation in Difference-in-Differences Studies**|Marco Piccininni et.al.|[2507.12891](http://arxiv.org/abs/2507.12891)|null|
 |**2025-07-16**|**Targeted Deep Architectures: A TMLE-Based Framework for Robust Causal Inference in Neural Networks**|Yi Li et.al.|[2507.12435](http://arxiv.org/abs/2507.12435)|null|
 |**2025-07-16**|**Robust Causal Discovery in Real-World Time Series with Power-Laws**|Matteo Tusoni et.al.|[2507.12257](http://arxiv.org/abs/2507.12257)|null|
 |**2025-07-16**|**Emergence of Quantised Representations Isolated to Anisotropic Functions**|George Bird et.al.|[2507.12070](http://arxiv.org/abs/2507.12070)|null|
@@ -6815,6 +6837,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
+|**2025-07-17**|**Detecting LLM-generated Code with Subtle Modification by Adversarial Training**|Xin Yin et.al.|[2507.13123](http://arxiv.org/abs/2507.13123)|null|
 |**2025-07-16**|**Spatial Frequency Modulation for Semantic Segmentation**|Linwei Chen et.al.|[2507.11893](http://arxiv.org/abs/2507.11893)|null|
 |**2025-07-14**|**Offline Reinforcement Learning with Wasserstein Regularization via Optimal Transport Maps**|Motoki Omura et.al.|[2507.10843](http://arxiv.org/abs/2507.10843)|null|
 |**2025-07-14**|**REAL-IoT: Characterizing GNN Intrusion Detection Robustness under Practical Adversarial Attack**|Zhonghao Zhan et.al.|[2507.10836](http://arxiv.org/abs/2507.10836)|null|
